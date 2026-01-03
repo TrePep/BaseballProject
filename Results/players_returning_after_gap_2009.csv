@@ -1,0 +1,70 @@
+id,nameFirst,nameLast,playerID,last_seen_year,return_year,gap_years,gap_years_range,gap_details
+1,Chris,Richard,richach01,2003,2009,5,2004 - 2008,"2007 - Triple A, Durham Bulls, Tampa Bay Rays; 2008 - Triple A, Durham Bulls, International League All-Stars, Tampa Bay Rays"
+2,Denny,Stark,starkde01,2004,2009,4,2005 - 2008,"2008 - Double-A, West Tenn Diamond Jaxx, Seattle Mariners; 2008 - Triple A, Tacoma Rainiers, Seattle Mariners"
+3,Andres,Torres,torrean02,2005,2009,3,2006 - 2008,"2007 - Double-A, Erie SeaWolves, Detroit Tigers; 2007 - Triple A, Toledo Mud Hens, Detroit Tigers; 2008 - Triple A, Iowa Cubs, Chicago Cubs"
+4,Eli,Whiteside,whiteel03,2005,2009,3,2006 - 2008,"2007 - Double-A, Bowie Baysox, Baltimore Orioles; 2007 - Triple A, Norfolk Tides, Baltimore Orioles; 2008 - Triple A, Fresno Grizzlies, Rochester Red Wings, Minnesota Twins, San Francisco Giants"
+5,Randy,Williams,willira01,2005,2009,3,2006 - 2008,"2007 - Double-A, Frisco RoughRiders, Texas Rangers; 2007 - Triple A, Oklahoma RedHawks, Texas Rangers; 2008 - Triple A, Albuquerque Isotopes, Miami Marlins"
+6,Mike,Burns,burnsmi01,2006,2009,2,2007 - 2008,"2007 - Triple A, Pawtucket Red Sox, Boston Red Sox; 2008 - Triple A, Iowa Cubs, Pacific Coast League All-Stars, Chicago Cubs"
+7,Andy,Green,greenan01,2006,2009,2,2007 - 2008,"2008 - Triple A, Louisville Bats, New Orleans Zephyrs, Cincinnati Reds, New York Mets; 2007 - NPB, Hokkaido Nippon-Ham Fighters"
+8,Justin,Lehr,lehrju01,2006,2009,2,2007 - 2008,"2007 - Triple A, Pacific Coast League All-Stars, Tacoma Rainiers, Seattle Mariners; 2008 - Triple A, Louisville Bats, Cincinnati Reds"
+9,Roman,Colon,colonro01,2006,2009,2,2007 - 2008,"2007 - Double-A, Erie SeaWolves, Detroit Tigers; 2007 - Triple A, Omaha Royals, Toledo Mud Hens, Detroit Tigers, Kansas City Royals; 2008 - Double-A, Northwest Arkansas Naturals, Kansas City Royals; 2008 - Triple A, Omaha Royals, Kansas City Royals"
+10,Kevin,Barker,barkeke01,2006,2009,2,2007 - 2008,"2007 - Triple A, Syracuse Chiefs, Toronto Blue Jays; 2008 - Triple A, Louisville Bats, Cincinnati Reds"
+11,Kris,Benson,bensokr01,2006,2009,2,2007 - 2008,"2008 - Single A (Advanced), Clearwater Threshers, Philadelphia Phillies; 2008 - Triple A, Lehigh Valley IronPigs, Philadelphia Phillies"
+12,Andres,Blanco,blancan01,2006,2009,2,2007 - 2008,"2007 - Triple A, Omaha Royals, Kansas City Royals; 2007 - Rookie, AZL Royals, Kansas City Royals; 2008 - Triple A, Iowa Cubs, Chicago Cubs"
+13,Chris,Narveson,narvech01,2006,2009,2,2007 - 2008,"2007 - Single A (Advanced), Palm Beach Cardinals, St. Louis Cardinals; 2007 - Major League Baseball, Memphis Redbirds, St. Louis Cardinals; 2007 - Triple A, Memphis Redbirds, St. Louis Cardinals; 2008 - Triple A, Nashville Sounds, Milwaukee Brewers"
+14,Hayden,Penn,pennha01,2006,2009,2,2007 - 2008,"2007 - Single A (Short Season), Aberdeen IronBirds, Baltimore Orioles; 2007 - Triple A, Norfolk Tides, Baltimore Orioles; 2007 - Rookie, GCL Orioles, Baltimore Orioles; 2008 - Triple A, Norfolk Tides, Baltimore Orioles"
+15,Alejandro,De Aza,deazaal01,2007,2009,1,2008 - 2008,
+16,Ross,Detwiler,detwiro01,2007,2009,1,2008 - 2008,"2008 - Single A (Advanced), Potomac Nationals, Washington Nationals"
+17,Chris,Duffy,duffych01,2007,2009,1,2008 - 2008,"2008 - Double-A, Altoona Curve, Pittsburgh Pirates; 2008 - Triple A, Indianapolis Indians, Pittsburgh Pirates"
+18,Kelvim,Escobar,escobke01,2007,2009,1,2008 - 2008,"2008 - Single A (Advanced), Rancho Cucamonga Quakes, Los Angeles Angels; 2008 - Rookie, AZL Angels, Los Angeles Angels"
+19,Terry,Evans,evanste01,2007,2009,1,2008 - 2008,"2008 - Triple A, Salt Lake Bees, Los Angeles Angels; 2008 - Rookie, AZL Angels, Los Angeles Angels"
+20,Willie,Eyre,eyrewi01,2007,2009,1,2008 - 2008,
+21,Jake,Fox,foxja02,2007,2009,1,2008 - 2008,"2008 - Double-A, Tennessee Smokies, Chicago Cubs; 2008 - Triple A, Iowa Cubs, Chicago Cubs"
+22,Sam,Fuld,fuldsa01,2007,2009,1,2008 - 2008,"2008 - Double-A, Tennessee Smokies, Chicago Cubs; 2008 - Triple A, Iowa Cubs, Chicago Cubs"
+23,Alex,Gonzalez,gonzaal02,2007,2009,1,2008 - 2008,"2008 - Rookie, DSL Rangers1, DSL Rangers2, Texas Rangers"
+24,Mike,Gosling,goslimi01,2007,2009,1,2008 - 2008,"2008 - Triple A, Syracuse Chiefs, Toronto Blue Jays"
+25,Tony,Graffanino,graffto01,2007,2009,1,2008 - 2008,"2008 - Triple A, Buffalo Bisons, Cleveland Guardians"
+26,Nick,Green,greenni01,2007,2009,1,2008 - 2008,"2008 - Triple A, Salt Lake Bees, Scranton/Wilkes-Barre Yankees, Los Angeles Angels, New York Yankees"
+27,J. C.,Gutierrez,gutieju01,2007,2009,1,2008 - 2008,
+28,Freddy,Guzman,guzmafr01,2007,2009,1,2008 - 2008,"2008 - Double-A, Erie SeaWolves, Detroit Tigers; 2008 - Triple A, Toledo Mud Hens, Detroit Tigers"
+29,Casey,Janssen,janssca01,2007,2009,1,2008 - 2008,
+30,Garrett,Jones,jonesga02,2007,2009,1,2008 - 2008,"2008 - Triple A, Rochester Red Wings, Minnesota Twins"
+31,Matt,Kata,katama01,2007,2009,1,2008 - 2008,"2008 - Triple A, Indianapolis Indians, Pittsburgh Pirates"
+32,Don,Kelly,kellydo01,2007,2009,1,2008 - 2008,"2008 - Triple A, Arizona Diamondbacks, Tucson Sidewinders, Arizona Diamondbacks"
+33,Bobby,Keppel,keppebo01,2007,2009,1,2008 - 2008,
+34,John,Koronka,koronjo01,2007,2009,1,2008 - 2008,"2008 - Triple A, Colorado Springs Sky Sox, Colorado Rockies; 2008 - NPB, Orix Buffaloes"
+35,Anthony,Lerew,lerewan01,2007,2009,1,2008 - 2008,"2008 - Triple A, Richmond Braves, Atlanta Braves; 2008 - Rookie, GCL Braves, Atlanta Braves"
+36,Rodrigo,Lopez,lopezro01,2007,2009,1,2008 - 2008,"2008 - Single A (Full Season), Rome Braves, Atlanta Braves; 2008 - Rookie, GCL Braves, Atlanta Braves"
+37,Jay,Marshall,marshja01,2007,2009,1,2008 - 2008,"2008 - Double-A, Midland RockHounds, Oakland Athletics; 2008 - Triple A, Sacramento River Cats, Oakland Athletics"
+38,Carlos,Martinez,martica03,2007,2009,1,2008 - 2008,"2008 - Single A (Advanced), Potomac Nationals, Washington Nationals; 2008 - Double-A, Carolina Mudcats, Harrisburg Senators, Miami Marlins, Washington Nationals; 2008 - Triple A, Albuquerque Isotopes, Columbus Clippers, Miami Marlins, Washington Nationals; 2008 - Rookie, Casper Ghosts, DSL Rays, Colorado Rockies, Tampa Bay Rays"
+39,Justin,Maxwell,maxweju01,2007,2009,1,2008 - 2008,"2008 - Double-A, Harrisburg Senators, Washington Nationals"
+40,Darnell,McDonald,mcdonda02,2007,2009,1,2008 - 2008,"2008 - Triple A, International League All-Stars, Rochester Red Wings, Minnesota Twins"
+41,Eric,Milton,miltoer01,2007,2009,1,2008 - 2008,
+42,Sergio,Mitre,mitrese01,2007,2009,1,2008 - 2008,
+43,Jose,Morales,moraljo02,2007,2009,1,2008 - 2008,"2008 - Triple A, Rochester Red Wings, Minnesota Twins"
+44,Eric,Munson,munsoer01,2007,2009,1,2008 - 2008,"2008 - Triple A, Nashville Sounds, Milwaukee Brewers"
+45,Bill,Murphy,murphbi02,2007,2009,1,2008 - 2008,"2008 - Triple A, Syracuse Chiefs, Toronto Blue Jays"
+46,Tony,Abreu,abreuto01,2007,2009,1,2008 - 2008,
+47,Tomo,Ohka,ohkato01,2007,2009,1,2008 - 2008,"2008 - Triple A, Charlotte Knights, Chicago White Sox"
+48,Russ,Ortiz,ortizru01,2007,2009,1,2008 - 2008,
+49,Felipe,Paulino,paulife01,2007,2009,1,2008 - 2008,"2008 - Triple A, Round Rock Express, Houston Astros"
+50,Winston,Abreu,abreuwi01,2007,2009,1,2008 - 2008,"2008 - NPB, Chiba Lotte Marines"
+51,Chris,Ray,raych01,2007,2009,1,2008 - 2008,"2008 - Single A (Full Season), Delmarva Shorebirds, Baltimore Orioles; 2008 - Single A (Advanced), Frederick Keys, Baltimore Orioles; 2008 - Single A (Short Season), Aberdeen IronBirds, Baltimore Orioles; 2008 - Double-A, Bowie Baysox, Baltimore Orioles; 2008 - Rookie, GCL Orioles, Baltimore Orioles"
+52,Russ,Adams,adamsru01,2007,2009,1,2008 - 2008,"2008 - Triple A, Syracuse Chiefs, Toronto Blue Jays"
+53,Guillermo,Rodriguez,rodrigu01,2007,2009,1,2008 - 2008,"2008 - Triple A, Fresno Grizzlies, San Francisco Giants; 2008 - Rookie, DSL Padres, San Diego Padres"
+54,Jason,Schmidt,schmija01,2007,2009,1,2008 - 2008,"2008 - Single A (Advanced), Inland Empire 66ers, Los Angeles Dodgers; 2008 - Triple A, Las Vegas 51s, Los Angeles Dodgers"
+55,Zack,Segovia,segovza01,2007,2009,1,2008 - 2008,"2008 - Single A (Full Season), Hagerstown Suns, Washington Nationals; 2008 - Single A (Advanced), Clearwater Threshers, Potomac Nationals, Philadelphia Phillies, Washington Nationals; 2008 - Double-A, Harrisburg Senators, Reading Phillies, Philadelphia Phillies, Washington Nationals; 2008 - Rookie, GCL Nationals, Washington Nationals"
+56,Danys,Baez,baezda01,2007,2009,1,2008 - 2008,
+57,Tim,Stauffer,staufti01,2007,2009,1,2008 - 2008,
+58,Jon,Switzer,switzjo01,2007,2009,1,2008 - 2008,"2008 - Triple A, Pawtucket Red Sox, Boston Red Sox"
+59,Bruce,Chen,chenbr01,2007,2009,1,2008 - 2008,
+60,Josh,Towers,towerjo01,2007,2009,1,2008 - 2008,"2008 - Triple A, Colorado Springs Sky Sox, Colorado Rockies"
+61,Wilson,Valdez,valdewi01,2007,2009,1,2008 - 2008,"2008 - NPB, Tokyo Yakult Swallows"
+62,Jason,Vargas,vargaja01,2007,2009,1,2008 - 2008,
+63,Virgil,Vasquez,vasquvi01,2007,2009,1,2008 - 2008,"2008 - Triple A, Toledo Mud Hens, Detroit Tigers"
+64,Jeff,Weaver,weaveje01,2007,2009,1,2008 - 2008,"2008 - Triple A, Buffalo Bisons, Nashville Sounds, Cleveland Guardians, Milwaukee Brewers"
+65,Randy,Choate,choatra01,2007,2009,1,2008 - 2008,"2008 - Single A (Advanced), Brevard County Manatees, Milwaukee Brewers; 2008 - Triple A, Nashville Sounds, Milwaukee Brewers"
+66,Sean,White,whitese02,2007,2009,1,2008 - 2008,"2008 - Single A (Short Season), Everett AquaSox, Seattle Mariners; 2008 - Triple A, Tacoma Rainiers, Seattle Mariners"
+67,Dave,Davidson,davidda01,2007,2009,1,2008 - 2008,
+68,Josh,Wilson,wilsojo03,2007,2009,1,2008 - 2008,"2008 - Single A (Full Season), Quad Cities River Bandits, St. Louis Cardinals; 2008 - Triple A, Indianapolis Indians, Pawtucket Red Sox, Boston Red Sox, Pittsburgh Pirates"
+69,Chris,Woodward,woodwch01,2007,2009,1,2008 - 2008,"2008 - Major League Baseball, Lehigh Valley IronPigs, Philadelphia Phillies; 2008 - Triple A, Lehigh Valley IronPigs, Nashville Sounds, Milwaukee Brewers, Philadelphia Phillies"

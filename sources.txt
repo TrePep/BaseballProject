@@ -1,0 +1,3 @@
+- MLB baseball datasets - https://sabr.org/lahman-database/
+- MiLB baseball datasets - https://github.com/armstjc/milb-data-repository
+- NPB datasets - https://proeyekyuu.com/csvs/

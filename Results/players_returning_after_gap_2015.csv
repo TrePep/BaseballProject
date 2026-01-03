@@ -1,0 +1,65 @@
+id,nameFirst,nameLast,playerID,last_seen_year,return_year,gap_years,gap_years_range,gap_details
+1,Chin-hui,Tsao,tsaoch01,2007,2015,7,2008 - 2014,"2008 - Triple A, Omaha Royals, Kansas City Royals; 2014 - Winter Leagues, Adelaide Bite, Office of the Commissioner"
+2,Radhames,Liz,lizra01,2009,2015,5,2010 - 2014,"2010 - Triple-A, Portland Beavers, San Diego Padres; 2014 - Double-A, New Hampshire Fisher Cats, Toronto Blue Jays; 2014 - Triple-A, Buffalo Bisons, Toronto Blue Jays; 2014 - Winter Leagues, Estrellas de Oriente, Office of the Commissioner"
+3,Kyle,Davies,davieky01,2011,2015,3,2012 - 2014,"2013 - Class A Advanced, Fort Myers Miracle, Minnesota Twins; 2013 - Double-A, New Britain Rock Cats, Minnesota Twins; 2013 - Rookie, GCL Twins, Minnesota Twins; 2014 - Double-A, Akron RubberDucks, Cleveland Guardians; 2014 - Triple-A, Columbus Clippers, Cleveland Guardians"
+4,Adam,Loewen,loewead01,2011,2015,3,2012 - 2014,"2012 - Class A Advanced, St. Lucie Mets, New York Mets; 2012 - Triple-A, Buffalo Bisons, New York Mets; 2013 - Double-A, New Hampshire Fisher Cats, Toronto Blue Jays; 2013 - Triple-A, Buffalo Bisons, Toronto Blue Jays; 2014 - Class A Advanced, Clearwater Threshers, Philadelphia Phillies; 2014 - Double-A, Reading Fightin Phils, Philadelphia Phillies"
+5,Ryan,Madson,madsory01,2011,2015,3,2012 - 2014,"2013 - Class A Advanced, Inland Empire 66ers, Los Angeles Angels"
+6,Marcos,Mateo,mateoma01,2011,2015,3,2012 - 2014,"2013 - Double-A, Tennessee Smokies, Chicago Cubs; 2013 - Triple-A, Iowa Cubs, Chicago Cubs; 2013 - Rookie, AZL Cubs, Chicago Cubs; 2014 - Triple-A, Iowa Cubs, Chicago Cubs; 2014 - Winter Leagues, Estrellas de Oriente, Office of the Commissioner"
+7,Jo-Jo,Reyes,reyesjo03,2011,2015,3,2012 - 2014,"2012 - Class A Short Season, State College Spikes, Pittsburgh Pirates; 2012 - Triple-A, Indianapolis Indians, Pittsburgh Pirates; 2012 - Rookie, GCL Pirates, Pittsburgh Pirates; 2014 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies"
+8,Ivan,De Jesus,dejesiv02,2012,2015,2,2013 - 2014,
+9,Gorkys,Hernandez,hernago01,2012,2015,2,2013 - 2014,"2013 - Major League Baseball, Miami Marlins, None; 2013 - Triple-A, New Orleans Zephyrs, Omaha Storm Chasers, Kansas City Royals, Miami Marlins; 2014 - Triple-A, Charlotte Knights, Omaha Storm Chasers, Tigres de Quintana Roo, Chicago White Sox, Kansas City Royals, Office of the Commissioner"
+10,Collin,Balester,balesco01,2012,2015,2,2013 - 2014,"2013 - Triple-A, Round Rock Express, Texas Rangers; 2014 - Double-A, Altoona Curve, Pittsburgh Pirates; 2014 - Rookie, Bristol Pirates, GCL Pirates, Pittsburgh Pirates"
+11,Emmanuel,Burriss,burriem01,2012,2015,2,2013 - 2014,"2013 - Triple-A, Louisville Bats, Cincinnati Reds; 2014 - Triple-A, Syracuse Chiefs, Washington Nationals; 2014 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner"
+12,Casey,Kelly,kellyca01,2012,2015,2,2013 - 2014,"2014 - Class A Advanced, Lake Elsinore Storm, San Diego Padres; 2014 - Double-A, San Antonio Missions, San Diego Padres"
+13,Miguel,Socolovich,socolmi01,2012,2015,2,2013 - 2014,"2014 - Triple-A, Las Vegas 51s, New York Mets; 2014 - Winter Leagues, Estrellas LVBP, Leones del Caracas, Office of the Commissioner; 2013 - NPB, Hiroshima Toyo Carp"
+14,Adam,Wilk,wilkad01,2012,2015,2,2013 - 2014,"2014 - Triple-A, Indianapolis Indians, Pittsburgh Pirates"
+15,Brian,Bogusevic,bogusbr01,2013,2015,1,2014 - 2014,"2014 - Triple-A, New Orleans Zephyrs, Miami Marlins; 2014 - Rookie, GCL Marlins, Miami Marlins"
+16,Rob,Brantly,brantro01,2013,2015,1,2014 - 2014,"2014 - Triple-A, New Orleans Zephyrs, Miami Marlins"
+17,Simon,Castro,castrsi01,2013,2015,1,2014 - 2014,
+18,Patrick,Corbin,corbipa01,2013,2015,1,2014 - 2014,
+19,Todd,Cunningham,cunnito01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Gwinnett Braves, Atlanta Braves; 2014 - Winter Leagues, Tigres del Licey, Office of the Commissioner"
+20,Joe,Blanton,blantjo01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Sacramento River Cats, Oakland Athletics"
+21,Thomas,Field,fieldth01,2013,2015,1,2014 - 2014,
+22,Cory,Gearrin,gearrco01,2013,2015,1,2014 - 2014,
+23,Franklin,Gutierrez,gutiefr01,2013,2015,1,2014 - 2014,"2014 - Winter Leagues, Leones del Caracas, Office of the Commissioner"
+24,Donovan,Hand,handdo01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Nashville Sounds, Pacific Coast League All-Stars, Milwaukee Brewers"
+25,Matt,Harvey,harvema01,2013,2015,1,2014 - 2014,
+26,David,Hernandez,hernada01,2013,2015,1,2014 - 2014,
+27,Luke,Hochevar,hochelu01,2013,2015,1,2014 - 2014,
+28,Colt,Hynes,hynesco01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Albuquerque Isotopes, Buffalo Bisons, Los Angeles Dodgers, Toronto Blue Jays"
+29,Jose,Iglesias,iglesjo01,2013,2015,1,2014 - 2014,
+30,Ryan,Jackson,jacksry02,2013,2015,1,2014 - 2014,"2014 - Triple-A, El Paso Chihuahuas, San Diego Padres; 2014 - Rookie, AZL Padres, San Diego Padres"
+31,Paul,Janish,janispa01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Colorado Springs Sky Sox, Omaha Storm Chasers, Colorado Rockies, Kansas City Royals"
+32,Steve,Johnson,johnsst02,2013,2015,1,2014 - 2014,"2014 - Class A Short Season, Aberdeen IronBirds, Baltimore Orioles; 2014 - Triple-A, Norfolk Tides, Baltimore Orioles; 2014 - Rookie, GCL Orioles, Baltimore Orioles"
+33,Logan,Kensing,kensilo01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Pacific Coast League All-Stars, Tacoma Rainiers, Seattle Mariners"
+34,Aaron,Laffey,laffeaa01,2013,2015,1,2014 - 2014,"2014 - Triple-A, International League All-Stars, Syracuse Chiefs, Washington Nationals"
+35,Andrew,Albers,alberan01,2013,2015,1,2014 - 2014,
+36,Andrew,Bailey,bailean01,2013,2015,1,2014 - 2014,
+37,Brandon,Beachy,beachbr01,2013,2015,1,2014 - 2014,
+38,Shaun,Marcum,marcush01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Columbus Clippers, Cleveland Guardians; 2014 - Rookie, AZL Indians, Cleveland Guardians"
+39,Jason,Marquis,marquja01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies; 2014 - Rookie, GCL Phillies, Philadelphia Phillies"
+40,Tim,Beckham,beckhti01,2013,2015,1,2014 - 2014,"2014 - Class A Advanced, Charlotte Stone Crabs, Tampa Bay Rays; 2014 - Triple-A, Durham Bulls, Tampa Bay Rays; 2014 - Rookie, GCL Rays, Tampa Bay Rays"
+41,Kris,Medlen,medlekr01,2013,2015,1,2014 - 2014,
+42,Johnny,Monell,moneljo01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Albuquerque Isotopes, Norfolk Tides, Baltimore Orioles, Los Angeles Dodgers; 2014 - Winter Leagues, Criollos de Caguas, Team Feliciano, Office of the Commissioner"
+43,Peter,Moylan,moylape01,2013,2015,1,2014 - 2014,
+44,Chris,Narveson,narvech01,2013,2015,1,2014 - 2014,"2014 - NPB, Tokyo Yakult Swallows"
+45,Nick,Noonan,noonani01,2013,2015,1,2014 - 2014,"2014 - Class A Advanced, San Jose Giants, San Francisco Giants; 2014 - Triple-A, Fresno Grizzlies, San Francisco Giants"
+46,Ross,Ohlendorf,ohlenro01,2013,2015,1,2014 - 2014,"2014 - Class A Advanced, Potomac Nationals, Washington Nationals; 2014 - Triple-A, Syracuse Chiefs, Washington Nationals; 2014 - Rookie, GCL Nationals, Washington Nationals"
+47,Edgar,Olmos,olmosed01,2013,2015,1,2014 - 2014,"2014 - Double-A, Jacksonville Suns, Miami Marlins; 2014 - Triple-A, New Orleans Zephyrs, Miami Marlins; 2014 - Winter Leagues, Salt River Rafters, Office of the Commissioner"
+48,Rafael,Betancourt,betanra01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Colorado Springs Sky Sox, Colorado Rockies; 2014 - Rookie, Grand Junction Rockies, Colorado Rockies"
+49,J. C.,Ramirez,ramirjc01,2013,2015,1,2014 - 2014,"2014 - Double-A, Akron RubberDucks, Cleveland Guardians; 2014 - Triple-A, Columbus Clippers, Cleveland Guardians"
+50,Chad,Billingsley,billich01,2013,2015,1,2014 - 2014,"2014 - Class A Advanced, Rancho Cucamonga Quakes, Los Angeles Dodgers"
+51,Matt,Reynolds,reynoma02,2013,2015,1,2014 - 2014,"2014 - Double-A, Binghamton Mets, New York Mets; 2014 - Triple-A, Las Vegas 51s, New York Mets; 2014 - Winter Leagues, AFL East Fall Stars, Scottsdale Scorpions, Office of the Commissioner"
+52,Clayton,Richard,richacl01,2013,2015,1,2014 - 2014,"2014 - Double-A, Mobile BayBears, Arizona Diamondbacks; 2014 - Triple-A, Reno Aces, Arizona Diamondbacks"
+53,Alex,Rodriguez,rodrial01,2013,2015,1,2014 - 2014,"2014 - Rookie, Grand Junction Rockies, Colorado Rockies"
+54,Enny,Romero,romeren01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Durham Bulls, Tampa Bay Rays; 2014 - Winter Leagues, Leones del Escogido, Office of the Commissioner"
+55,Bruce,Rondon,rondobr01,2013,2015,1,2014 - 2014,
+56,Shane,Peterson,petersh01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Pacific Coast League All-Stars, Sacramento River Cats, Oakland Athletics; 2014 - Winter Leagues, Aguilas de Mexicali, Office of the Commissioner"
+57,Jhonatan,Solano,solanjh01,2013,2015,1,2014 - 2014,"2014 - Triple-A, International League All-Stars, Syracuse Chiefs, Washington Nationals; 2014 - Winter Leagues, Tigres del Licey, Office of the Commissioner"
+58,Everett,Teaford,teafoev01,2013,2015,1,2014 - 2014,
+59,David,Aardsma,aardsda01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Memphis Redbirds, St. Louis Cardinals; 2014 - Rookie, GCL Cardinals, St. Louis Cardinals"
+60,Henry,Urrutia,urruthe01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Norfolk Tides, Baltimore Orioles; 2014 - Rookie, GCL Orioles, Baltimore Orioles"
+61,Chris,Volstad,volstch01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Salt Lake Bees, Los Angeles Angels"
+62,Brett,Wallace,wallabr01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Buffalo Bisons, Norfolk Tides, Baltimore Orioles, Toronto Blue Jays"
+63,Michael,Blazek,blazemi01,2013,2015,1,2014 - 2014,"2014 - Triple-A, Nashville Sounds, Milwaukee Brewers"
+64,Barry,Zito,zitoba01,2013,2015,1,2014 - 2014,

@@ -1,0 +1,165 @@
+id,nameFirst,nameLast,playerID,last_seen_year,return_year,gap_years,gap_years_range,gap_details
+1,Sean,Kazmar,kazmase01,2008,2021,12,2009 - 2020,
+2,Brandon,Dickson,dicksbr01,2012,2021,8,2013 - 2020,"2013 - NPB, Orix Buffaloes; 2014 - NPB, Orix Buffaloes; 2015 - NPB, Orix Buffaloes; 2016 - NPB, Orix Buffaloes; 2017 - NPB, Orix Buffaloes; 2018 - NPB, Orix Buffaloes; 2019 - NPB, Orix Buffaloes; 2020 - NPB, Orix Buffaloes"
+3,Andrew,Bellatti,bellaan01,2015,2021,5,2016 - 2020,"2016 - Class A Advanced, Charlotte Stone Crabs, Tampa Bay Rays; 2016 - Double-A, Montgomery Biscuits, Tampa Bay Rays; 2016 - Triple-A, Durham Bulls, Tampa Bay Rays; 2019 - Class A Advanced, Tampa Tarpons, New York Yankees; 2019 - Double-A, Trenton Thunder, New York Yankees; 2019 - Triple-A, Scranton/Wilkes-Barre RailRiders, New York Yankees"
+4,Lucas,Luetge,luetglu01,2015,2021,5,2016 - 2020,"2016 - Triple-A, Salt Lake Bees, Los Angeles Angels; 2017 - Triple-A, Louisville Bats, Norfolk Tides, Baltimore Orioles, Cincinnati Reds; 2019 - Double-A, Jackson Generals, SOU North Division All-Stars, Arizona Diamondbacks; 2019 - Triple-A, Reno Aces, Arizona Diamondbacks"
+5,Sean,Nolin,nolinse01,2015,2021,5,2016 - 2020,"2018 - Double-A, Hartford Yard Goats, Colorado Rockies; 2018 - Winter Leagues, Yaquis de Obregon, Office of the Commissioner; 2019 - Double-A, Birmingham Barons, Chicago White Sox; 2019 - Triple-A, Tacoma Rainiers, Seattle Mariners; 2020 - NPB, Saitama Seibu Lions"
+6,Andy,Burns,burnsan01,2016,2021,4,2017 - 2020,"2019 - Triple-A, Buffalo Bisons, Toronto Blue Jays; 2019 - Winter Leagues, Sydney Blue Sox, Office of the Commissioner; 2020 - Winter Leagues, Sydney Blue Sox, Office of the Commissioner"
+7,Eric,Campbell,campber01,2016,2021,4,2017 - 2020,"2018 - Triple-A, New Orleans Baby Cakes, Pacific Coast League All-Stars, Miami Marlins; 2019 - Triple-A, Las Vegas Aviators, Oakland Athletics; 2017 - NPB, Hanshin Tigers"
+8,Anthony,Gose,gosean01,2016,2021,4,2017 - 2020,"2017 - Class A Advanced, Lakeland Flying Tigers, Detroit Tigers; 2018 - Double-A, Frisco RoughRiders, Texas Rangers; 2019 - Class A Advanced, Lynchburg Hillcats, Cleveland Guardians; 2019 - Double-A, Akron RubberDucks, Cleveland Guardians; 2019 - Winter Leagues, Atenienses de Manati, Office of the Commissioner; 2020 - Winter Leagues, Toros del Este, Office of the Commissioner"
+9,Scott,Kazmir,kazmisc01,2016,2021,4,2017 - 2020,"2017 - Class A Advanced, Rancho Cucamonga Quakes, Los Angeles Dodgers"
+10,Tyler,Ladendorf,ladenty01,2016,2021,4,2017 - 2020,"2017 - Triple-A, Charlotte Knights, Chicago White Sox; 2018 - Double-A, Jackson Generals, Arizona Diamondbacks; 2018 - Triple-A, Buffalo Bisons, Reno Aces, Arizona Diamondbacks, Toronto Blue Jays; 2019 - Triple-A, Durham Bulls, Tampa Bay Rays"
+11,Kyle,Lobstein,lobstky01,2016,2021,4,2017 - 2020,"2017 - Double-A, Jacksonville Jumbo Shrimp, Miami Marlins; 2017 - Triple-A, New Orleans Baby Cakes, Miami Marlins; 2017 - Winter Leagues, Tigres del Licey, Office of the Commissioner; 2018 - Double-A, Tulsa Drillers, Los Angeles Dodgers; 2018 - Triple-A, Oklahoma City Dodgers, Toros de Tijuana, Los Angeles Dodgers, Office of the Commissioner; 2019 - Triple-A, Las Vegas Aviators, Oakland Athletics"
+12,Shawn,Morimando,morimsh01,2016,2021,4,2017 - 2020,"2017 - Triple-A, Columbus Clippers, Cleveland Guardians, Cleveland Indians; 2018 - Triple-A, Buffalo Bisons, Columbus Clippers, Cleveland Guardians, Toronto Blue Jays; 2018 - Winter Leagues, Surprise Saguaros, Office of the Commissioner; 2019 - Triple-A, Buffalo Bisons, Toronto Blue Jays; 2020 - Winter Leagues, Canberra Cavalry, Office of the Commissioner"
+13,Spencer,Patton,pattosp01,2016,2021,4,2017 - 2020,"2017 - NPB, Yokohama DeNA Baystars; 2018 - NPB, Yokohama DeNA Baystars; 2019 - NPB, Yokohama DeNA Baystars; 2020 - NPB, Yokohama DeNA Baystars"
+14,Ben,Rowen,rowenbe01,2016,2021,4,2017 - 2020,"2017 - Triple-A, Las Vegas 51s, New York Mets; 2018 - Triple-A, Louisville Bats, Cincinnati Reds; 2019 - Double-A, Mississippi Braves, Atlanta Braves; 2019 - Triple-A, Gwinnett Stripers, International League All-Stars, Atlanta Braves"
+15,Andrew,Albers,alberan01,2017,2021,3,2018 - 2020,"2018 - NPB, Orix Buffaloes; 2019 - NPB, Orix Buffaloes; 2020 - NPB, Orix Buffaloes"
+16,Jharel,Cotton,cottojh01,2017,2021,3,2018 - 2020,"2019 - Class A Advanced, Stockton Ports, Oakland Athletics; 2019 - Triple-A, Las Vegas Aviators, Oakland Athletics"
+17,Dietrich,Enns,ennsdi01,2017,2021,3,2018 - 2020,"2018 - Double-A, Chattanooga Lookouts, Minnesota Twins; 2018 - Triple-A, Rochester Red Wings, Minnesota Twins; 2018 - Winter Leagues, Bravos de Margarita, Office of the Commissioner; 2019 - Triple-A, El Paso Chihuahuas, San Diego Padres; 2019 - Winter Leagues, Bravos de Margarita, Office of the Commissioner"
+18,Neftali,Feliz,felizne01,2017,2021,3,2018 - 2020,"2018 - Triple-A, Reno Aces, Arizona Diamondbacks"
+19,Jared,Hoying,hoyinja01,2017,2021,3,2018 - 2020,
+20,Andres,Machado,machaan02,2017,2021,3,2018 - 2020,"2018 - Double-A, Northwest Arkansas Naturals, Kansas City Royals; 2018 - Triple-A, Omaha Storm Chasers, Kansas City Royals; 2019 - Major League Baseball, Omaha Storm Chasers, Kansas City Royals; 2019 - Triple-A, Omaha Storm Chasers, Kansas City Royals"
+21,Sam,Moll,mollsa01,2017,2021,3,2018 - 2020,"2018 - Triple-A, Buffalo Bisons, Toronto Blue Jays; 2019 - Double-A, Richmond Flying Squirrels, San Francisco Giants; 2019 - Triple-A, Sacramento River Cats, San Francisco Giants"
+22,John,Andreoli,andrejo03,2018,2021,2,2019 - 2020,"2019 - Triple-A, Minnesota Twins, Rochester Red Wings, Tacoma Rainiers, Minnesota Twins, Seattle Mariners"
+23,John,Axford,axforjo01,2018,2021,2,2019 - 2020,"2019 - Rookie, GCL Blue Jays, Toronto Blue Jays"
+24,Matt,Bush,bushma01,2018,2021,2,2019 - 2020,"2019 - Double-A, Frisco RoughRiders, Texas Rangers"
+25,Alcides,Escobar,escobal02,2018,2021,2,2019 - 2020,"2019 - Triple-A, Charlotte Knights, Chicago White Sox; 2020 - NPB, Tokyo Yakult Swallows"
+26,Dustin,Fowler,fowledu01,2018,2021,2,2019 - 2020,"2019 - Triple-A, Las Vegas Aviators, Oakland Athletics"
+27,Stephen,Gonsalves,gonsast01,2018,2021,2,2019 - 2020,"2019 - Double-A, Pensacola Blue Wahoos, Minnesota Twins; 2019 - Triple-A, Rochester Red Wings, Minnesota Twins; 2019 - Rookie, GCL Twins, Minnesota Twins"
+28,Preston,Guilmet,guilmpr01,2018,2021,2,2019 - 2020,"2019 - Triple-A, Rochester Red Wings, Minnesota Twins"
+29,Eric,Hanhold,hanhoer01,2018,2021,2,2019 - 2020,"2019 - Double-A, Binghamton Rumble Ponies, New York Mets; 2019 - Triple-A, Syracuse Mets, New York Mets"
+30,Drew,Hutchison,hutchdr01,2018,2021,2,2019 - 2020,"2019 - Triple-A, Rochester Red Wings, Salt Lake Bees, Scranton/Wilkes-Barre RailRiders, Los Angeles Angels, Minnesota Twins, New York Yankees"
+31,Patrick,Kivlehan,kivlepa01,2018,2021,2,2019 - 2020,"2019 - Double-A, New Hampshire Fisher Cats, Toronto Blue Jays; 2019 - Triple-A, Buffalo Bisons, Indianapolis Indians, Pittsburgh Pirates, Toronto Blue Jays"
+32,Michael,Kopech,kopecmi01,2018,2021,2,2019 - 2020,
+33,Pete,Kozma,kozmape01,2018,2021,2,2019 - 2020,"2019 - Triple-A, Toledo Mud Hens, Detroit Tigers; 2019 - Winter Leagues, Perth Heat, Office of the Commissioner; 2020 - Winter Leagues, Perth Heat, Office of the Commissioner"
+34,Joey,Krehbiel,krehbjo01,2018,2021,2,2019 - 2020,"2019 - Triple-A, Reno Aces, Arizona Diamondbacks"
+35,Ian,Krol,krolia01,2018,2021,2,2019 - 2020,"2019 - Triple-A, Louisville Bats, Rochester Red Wings, Cincinnati Reds, Minnesota Twins"
+36,Jose,Lobaton,lobatjo01,2018,2021,2,2019 - 2020,"2019 - Triple-A, Oklahoma City Dodgers, Tacoma Rainiers, Los Angeles Dodgers, Seattle Mariners"
+37,Bryan,Mitchell,mitchbr01,2018,2021,2,2019 - 2020,"2019 - Triple-A, El Paso Chihuahuas, San Diego Padres; 2019 - Rookie, AZL Padres 1, AZL Padres 2, San Diego Padres"
+38,Taylor,Motter,motteta01,2018,2021,2,2019 - 2020,"2019 - Double-A, Erie SeaWolves, Midland RockHounds, Detroit Tigers, Oakland Athletics; 2019 - Winter Leagues, Estrellas Orientales, Office of the Commissioner"
+39,Steven,Okert,okertst01,2018,2021,2,2019 - 2020,"2019 - Triple-A, Sacramento River Cats, San Francisco Giants"
+40,David,Paulino,paulida01,2018,2021,2,2019 - 2020,"2019 - Triple-A, Buffalo Bisons, Toronto Blue Jays; 2019 - Winter Leagues, Tigres del Licey, Office of the Commissioner; 2020 - Winter Leagues, Leones del Escogido, Office of the Commissioner"
+41,Kevin,Quackenbush,quackke01,2018,2021,2,2019 - 2020,"2019 - Triple-A, Oklahoma City Dodgers, Pacific Coast League All-Stars, Los Angeles Dodgers; 2019 - Winter Leagues, Naranjeros de Hermosillo, Office of the Commissioner"
+42,Edgar,Santana,santaed01,2018,2021,2,2019 - 2020,"2019 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner; 2020 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner"
+43,Trayce,Thompson,thomptr01,2018,2021,2,2019 - 2020,"2019 - Triple-A, Columbus Clippers, Cleveland Guardians"
+44,Fernando,Abad,abadfe01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Dominican Republic, Toros del Este, Office of the Commissioner"
+45,R. J.,Alaniz,alanirj01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Naranjeros de Hermosillo, Office of the Commissioner"
+46,Tanner,Anderson,anderta01,2019,2021,1,2020 - 2020,
+47,Chris,Archer,archech01,2019,2021,1,2020 - 2020,
+48,Humberto,Arteaga,arteahu01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Aguilas del Zulia, Office of the Commissioner"
+49,Pedro,Avila,avilape01,2019,2021,1,2020 - 2020,
+50,Kyle,Barraclough,barraky01,2019,2021,1,2020 - 2020,
+51,Tres,Barrera,barretr01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Leones del Escogido, Office of the Commissioner"
+52,Jake,Bauers,bauerja01,2019,2021,1,2020 - 2020,
+53,Tyler,Beede,beedety01,2019,2021,1,2020 - 2020,
+54,Alex,Blandino,blandal01,2019,2021,1,2020 - 2020,
+55,Skye,Bolt,boltsk01,2019,2021,1,2020 - 2020,
+56,Bobby,Bradley,bradlbo01,2019,2021,1,2020 - 2020,
+57,John,Brebbia,brebbjo01,2019,2021,1,2020 - 2020,
+58,Ryan,Burr,burrry01,2019,2021,1,2020 - 2020,
+59,J. T.,Chargois,chargjt01,2019,2021,1,2020 - 2020,
+60,Nick,Ciuffo,ciuffni01,2019,2021,1,2020 - 2020,
+61,Emmanuel,Clase,claseem01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Estrellas Orientales, Office of the Commissioner"
+62,Adam,Conley,conlead01,2019,2021,1,2020 - 2020,
+63,Taylor,Davis,davista01,2019,2021,1,2020 - 2020,
+64,Yonathan,Daza,dazayo01,2019,2021,1,2020 - 2020,
+65,Enyel,De Los Santos,delosen01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Tigres del Licey, Office of the Commissioner"
+66,Miguel,Diaz,diazmi02,2019,2021,1,2020 - 2020,
+67,Yennsy,Diaz,diazye01,2019,2021,1,2020 - 2020,
+68,Seranthony,Dominguez,dominse01,2019,2021,1,2020 - 2020,
+69,Matt,Duffy,duffyma01,2019,2021,1,2020 - 2020,
+70,Jon,Duplantier,duplajo01,2019,2021,1,2020 - 2020,
+71,Jerad,Eickhoff,eickhje01,2019,2021,1,2020 - 2020,
+72,Chris,Ellis,ellisch01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner"
+73,Jake,Faria,fariaja01,2019,2021,1,2020 - 2020,
+74,Chris,Flexen,flexech01,2019,2021,1,2020 - 2020,
+75,Aramis,Garcia,garciar01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Toros del Este, Office of the Commissioner"
+76,Robel,Garcia,garciro02,2019,2021,1,2020 - 2020,
+77,Domingo,German,germado01,2019,2021,1,2020 - 2020,
+78,Reymin,Guduan,guduare01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner"
+79,Jandel,Gustave,gustaja01,2019,2021,1,2020 - 2020,
+80,J. D.,Hammer,hammejd01,2019,2021,1,2020 - 2020,
+81,Mitch,Haniger,hanigmi01,2019,2021,1,2020 - 2020,
+82,Blaine,Hardy,hardybl01,2019,2021,1,2020 - 2020,
+83,Odubel,Herrera,herreod01,2019,2021,1,2020 - 2020,
+84,John,Hicks,hicksjo02,2019,2021,1,2020 - 2020,
+85,Jordan,Hicks,hicksjo03,2019,2021,1,2020 - 2020,
+86,Trevor,Hildenberger,hildetr01,2019,2021,1,2020 - 2020,
+87,Jay,Jackson,jacksja01,2019,2021,1,2020 - 2020,"2020 - NPB, Chiba Lotte Marines"
+88,Jake,Jewell,jewelja01,2019,2021,1,2020 - 2020,
+89,Connor,Joe,joeco01,2019,2021,1,2020 - 2020,
+90,DJ,Johnson,johnsdj01,2019,2021,1,2020 - 2020,"2020 - NPB, Hiroshima Toyo Carp, Tohoku Rakuten Golden Eagles"
+91,Ryan,LaMarre,lamarry01,2019,2021,1,2020 - 2020,
+92,Peter,Lambert,lambepe01,2019,2021,1,2020 - 2020,
+93,Derek,Law,lawde01,2019,2021,1,2020 - 2020,
+94,Domingo,Leyba,leybado01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Estrellas Orientales, Office of the Commissioner"
+95,Jed,Lowrie,lowrije01,2019,2021,1,2020 - 2020,
+96,Luke,Maile,mailelu01,2019,2021,1,2020 - 2020,
+97,Trey,Mancini,mancitr01,2019,2021,1,2020 - 2020,
+98,Deven,Marrero,marrede01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Indios de Mayaguez, Office of the Commissioner"
+99,Corbin,Martin,martico02,2019,2021,1,2020 - 2020,
+100,Nick,Martini,martini02,2019,2021,1,2020 - 2020,
+101,Richie,Martin,martiri01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Criollos de Caguas, Office of the Commissioner"
+102,Tim,Mayza,mayzati01,2019,2021,1,2020 - 2020,
+103,Collin,McHugh,mchugco01,2019,2021,1,2020 - 2020,
+104,Miles,Mikolas,mikolmi01,2019,2021,1,2020 - 2020,
+105,Justin,Miller,milleju02,2019,2021,1,2020 - 2020,
+106,Shelby,Miller,millesh01,2019,2021,1,2020 - 2020,
+107,Juan,Minaya,minayju01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Gigantes del Cibao, Naranjeros de Hermosillo, Office of the Commissioner"
+108,Matt,Moore,moorema02,2019,2021,1,2020 - 2020,"2020 - NPB, Fukuoka Softbank Hawks"
+109,Max,Moroff,morofma01,2019,2021,1,2020 - 2020,
+110,Reyes,Moronta,moronre01,2019,2021,1,2020 - 2020,
+111,Andres,Munoz,munozan01,2019,2021,1,2020 - 2020,
+112,Tom,Murphy,murphto04,2019,2021,1,2020 - 2020,
+113,Jimmy,Nelson,nelsoji02,2019,2021,1,2020 - 2020,
+114,Sheldon,Neuse,neusesh01,2019,2021,1,2020 - 2020,
+115,Stephen,Nogosek,nogosst01,2019,2021,1,2020 - 2020,
+116,Dom,Nunez,nunezdo01,2019,2021,1,2020 - 2020,
+117,Rafael,Ortega,ortegra01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Caribes de Anzoategui, Office of the Commissioner"
+118,Gerardo,Parra,parrage01,2019,2021,1,2020 - 2020,"2020 - NPB, Yomiuri Giants"
+119,Wily,Peralta,peralwi01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner"
+120,Jake,Petricka,petrija01,2019,2021,1,2020 - 2020,
+121,Buster,Posey,poseybu01,2019,2021,1,2020 - 2020,
+122,David,Price,priceda01,2019,2021,1,2020 - 2020,
+123,Austin,Pruitt,pruitau01,2019,2021,1,2020 - 2020,
+124,A. J.,Puk,pukaj01,2019,2021,1,2020 - 2020,
+125,Yefry,Ramirez,ramirye01,2019,2021,1,2020 - 2020,
+126,Pablo,Reyes,reyespa01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Tigres del Licey, Office of the Commissioner"
+127,David,Robertson,roberda08,2019,2021,1,2020 - 2020,
+128,Eduardo,Rodriguez,rodried05,2019,2021,1,2020 - 2020,
+129,Jefry,Rodriguez,rodrije01,2019,2021,1,2020 - 2020,
+130,Jake,Rogers,rogerja03,2019,2021,1,2020 - 2020,
+131,Josh,Rogers,rogerjo01,2019,2021,1,2020 - 2020,
+132,Jose,Rondon,rondojo02,2019,2021,1,2020 - 2020,
+133,Zac,Rosscup,rosscza01,2019,2021,1,2020 - 2020,
+134,Joe,Ross,rossjo01,2019,2021,1,2020 - 2020,
+135,Chris,Sale,salech01,2019,2021,1,2020 - 2020,
+136,Adrian,Sampson,sampsad01,2019,2021,1,2020 - 2020,
+137,Aaron,Sanchez,sanchaa01,2019,2021,1,2020 - 2020,
+138,Adrian,Sanchez,sanchad01,2019,2021,1,2020 - 2020,
+139,Ervin,Santana,santaer01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Tigres del Licey, Office of the Commissioner"
+140,Hector,Santiago,santihe01,2019,2021,1,2020 - 2020,
+141,Frank,Schwindel,schwifr01,2019,2021,1,2020 - 2020,
+142,Luis,Severino,severlu01,2019,2021,1,2020 - 2020,
+143,James,Sherfy,sherfji01,2019,2021,1,2020 - 2020,
+144,Joe,Smith,smithjo05,2019,2021,1,2020 - 2020,
+145,Edmundo,Sosa,sosaed01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Aguilas Cibaenas, Office of the Commissioner"
+146,Drew,Steckenrider,steckdr01,2019,2021,1,2020 - 2020,
+147,Kohl,Stewart,stewako01,2019,2021,1,2020 - 2020,
+148,Marcus,Stroman,stromma01,2019,2021,1,2020 - 2020,
+149,Anthony,Swarzak,swarzan01,2019,2021,1,2020 - 2020,
+150,Noah,Syndergaard,syndeno01,2019,2021,1,2020 - 2020,
+151,Jameson,Taillon,taillja01,2019,2021,1,2020 - 2020,
+152,Wilfredo,Tovar,tovarwi01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Leones del Caracas, Office of the Commissioner"
+153,Breyvic,Valera,valerbr01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Bravos de Margarita, Office of the Commissioner"
+154,Andrew,Vasquez,vasquan02,2019,2021,1,2020 - 2020,
+155,Art,Warren,warrear01,2019,2021,1,2020 - 2020,
+156,Stevie,Wilkerson,wilkest01,2019,2021,1,2020 - 2020,
+157,Nick,Williams,willini01,2019,2021,1,2020 - 2020,
+158,Kean,Wong,wongke01,2019,2021,1,2020 - 2020,
+159,Hunter,Wood,woodhu01,2019,2021,1,2020 - 2020,
+160,Mike,Wright,wrighmi01,2019,2021,1,2020 - 2020,
+161,Austin,Wynns,wynnsau01,2019,2021,1,2020 - 2020,
+162,Daniel,Zamora,zamorda01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Toros del Este, Office of the Commissioner"
+163,Seby,Zavala,zavalse01,2019,2021,1,2020 - 2020,
+164,Ryan,Zimmerman,zimmery01,2019,2021,1,2020 - 2020,"2020 - Winter Leagues, Sydney Blue Sox, Office of the Commissioner"

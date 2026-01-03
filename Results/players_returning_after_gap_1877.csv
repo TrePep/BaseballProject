@@ -1,0 +1,9 @@
+id,nameFirst,nameLast,playerID,last_seen_year,return_year,gap_years,gap_years_range,gap_details
+1,John,Bass,bassjo01,1872,1877,4,1873 - 1876,
+2,Art,Croft,croftar01,1875,1877,1,1876 - 1876,
+3,Bill,Crowley,crowlbi01,1875,1877,1,1876 - 1876,
+4,Jumbo,Latham,lathaju01,1875,1877,1,1876 - 1876,
+5,Paddy,Quinn,quinnpa02,1875,1877,1,1876 - 1876,
+6,Billy,Redmond,redmobi01,1875,1877,1,1876 - 1876,
+7,Orator,Shafer,shaffor01,1875,1877,1,1876 - 1876,
+8,Charlie,Waitt,waittch01,1875,1877,1,1876 - 1876,

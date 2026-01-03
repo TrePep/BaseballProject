@@ -1,0 +1,83 @@
+id,nameFirst,nameLast,playerID,last_seen_year,return_year,gap_years,gap_years_range,gap_details
+1,R. J.,Alvarez,alvarrj01,2015,2022,6,2016 - 2021,"2016 - Class A Advanced, High Desert Mavericks, Stockton Ports, Oakland Athletics, Texas Rangers; 2016 - Double-A, Tennessee Smokies, Chicago Cubs; 2016 - Triple-A, Iowa Cubs, Nashville Sounds, Chicago Cubs, Oakland Athletics; 2017 - Triple-A, Round Rock Express, Texas Rangers; 2018 - Triple-A, Pacific Coast League All-Stars, Round Rock Express, Texas Rangers; 2019 - Triple-A, New Orleans Baby Cakes, Miami Marlins; 2021 - Triple-A, Nashville Sounds, Milwaukee Brewers"
+2,Nick,Martinez,martini01,2017,2022,4,2018 - 2021,"2018 - NPB, Hokkaido Nippon-Ham Fighters; 2020 - NPB, Hokkaido Nippon-Ham Fighters; 2021 - NPB, Fukuoka Softbank Hawks"
+3,Christian,Bethancourt,bethach01,2017,2022,4,2018 - 2021,"2018 - Triple-A, Colorado Springs Sky Sox, Pacific Coast League All-Stars, Milwaukee Brewers; 2018 - Winter Leagues, Aguilas Cibaenas, Dominican Republic, Office of the Commissioner; 2018 - Winter Leagues, Dominican Republic, Office of the Commissioner; 2019 - Winter Leagues, Estrellas Orientales, Toros del Este, Office of the Commissioner; 2020 - Winter Leagues, Estrellas Orientales, Toros del Este, Office of the Commissioner; 2021 - Triple-A, Indianapolis Indians, Pittsburgh Pirates; 2021 - Winter Leagues, Estrellas Orientales, Office of the Commissioner"
+4,Casey,Lawrence,lawreca01,2018,2022,3,2019 - 2021,"2021 - Double-A, New Hampshire Fisher Cats, Toronto Blue Jays; 2021 - Triple-A, Buffalo Bisons, Toronto Blue Jays; 2019 - NPB, Hiroshima Toyo Carp"
+5,Zack,Weiss,weissza01,2018,2022,3,2019 - 2021,"2019 - Double-A, Pensacola Blue Wahoos, Minnesota Twins; 2019 - Triple-A, Rochester Red Wings, Minnesota Twins; 2021 - Triple-A, Tacoma Rainiers, Seattle Mariners"
+6,Jackson,Stephens,stephja01,2018,2022,3,2019 - 2021,"2019 - Triple-A, Louisville Bats, Cincinnati Reds; 2021 - Winter Leagues, Cardenales de Lara, Office of the Commissioner"
+7,Eric,Stout,stouter01,2018,2022,3,2019 - 2021,"2019 - Double-A, Chattanooga Lookouts, Cincinnati Reds; 2019 - Triple-A, Louisville Bats, Cincinnati Reds; 2019 - Winter Leagues, Indios de Mayaguez, Office of the Commissioner; 2020 - Winter Leagues, Indios de Mayaguez, Office of the Commissioner; 2021 - Triple-A, Jacksonville Jumbo Shrimp, Miami Marlins; 2021 - Winter Leagues, Indios de Mayaguez, Team Machin, Office of the Commissioner"
+8,Dixon,Machado,machadi01,2018,2022,3,2019 - 2021,"2019 - Triple-A, Iowa Cubs, Chicago Cubs"
+9,Mark,Leiter,leitema02,2018,2022,3,2019 - 2021,
+10,Tyler,Danish,danisty01,2018,2022,3,2019 - 2021,"2019 - Triple-A, Tacoma Rainiers, Seattle Mariners; 2021 - Double-A, Rocket City Trash Pandas, Los Angeles Angels; 2021 - Triple-A, Salt Lake Bees, Los Angeles Angels"
+11,Rob,Zastryzny,zastrro01,2018,2022,3,2019 - 2021,"2019 - Double-A, Tulsa Drillers, Los Angeles Dodgers; 2019 - Triple-A, Oklahoma City Dodgers, Los Angeles Dodgers; 2021 - Triple-A, Jacksonville Jumbo Shrimp, Miami Marlins; 2021 - Rookie, FCL Marlins, Miami Marlins"
+12,Victor,Arano,aranovi01,2019,2022,2,2020 - 2021,"2021 - Triple-A, Gwinnett Stripers, Atlanta Braves"
+13,Locke,St. John,stjohlo01,2019,2022,2,2020 - 2021,"2021 - Triple-A, Toledo Mud Hens, Detroit Tigers"
+14,Manny,Banuelos,banuema01,2019,2022,2,2020 - 2021,
+15,Matt,Festa,festama01,2019,2022,2,2020 - 2021,"2021 - High-A, Everett AquaSox, Seattle Mariners; 2021 - Triple-A, Tacoma Rainiers, Seattle Mariners; 2021 - Rookie, ACL Mariners, Seattle Mariners"
+16,Tim,Beckham,beckhti01,2019,2022,2,2020 - 2021,"2021 - Triple-A, Charlotte Knights, Chicago White Sox"
+17,Drew,VerHagen,verhadr01,2019,2022,2,2020 - 2021,"2020 - NPB, Hokkaido Nippon-Ham Fighters; 2021 - NPB, Hokkaido Nippon-Ham Fighters"
+18,Ty,Blach,blachty01,2019,2022,2,2020 - 2021,"2021 - Low-A, Delmarva Shorebirds, Baltimore Orioles; 2021 - Rookie, FCL Orioles Black, FCL Orioles Orange, Baltimore Orioles"
+19,Reed,Garrett,garrere01,2019,2022,2,2020 - 2021,"2020 - NPB, Saitama Seibu Lions; 2021 - NPB, Saitama Seibu Lions"
+20,Aaron,Brooks,brookaa01,2019,2022,2,2020 - 2021,
+21,Brock,Burke,burkebr01,2019,2022,2,2020 - 2021,"2021 - Triple-A, Round Rock Express, Texas Rangers"
+22,Drew,Jackson,jacksdr01,2019,2022,2,2020 - 2021,"2021 - Triple-A, Syracuse Mets, New York Mets"
+23,Jose,Castillo,castijo03,2019,2022,2,2020 - 2021,
+24,Arodys,Vizcaino,vizcaar01,2019,2022,2,2020 - 2021,"2021 - Triple-A, Syracuse Mets, New York Mets"
+25,Gerardo,Reyes,reyesge01,2019,2022,2,2020 - 2021,
+26,Parker,Markel,markepa01,2019,2022,2,2020 - 2021,"2021 - Triple-A, El Paso Chihuahuas, San Diego Padres"
+27,Matt,Koch,kochma01,2019,2022,2,2020 - 2021,"2021 - Triple-A, Columbus Clippers, Cleveland Guardians; 2020 - NPB, Tokyo Yakult Swallows"
+28,Luis,Ortiz,ortizlu02,2019,2022,2,2020 - 2021,"2021 - Low-A, Palm Beach Cardinals, St. Louis Cardinals; 2021 - Rookie, FCL Orioles Black, FCL Orioles Orange, Baltimore Orioles"
+29,Colin,Poche,pocheco01,2019,2022,2,2020 - 2021,
+30,Connor,Sadzeck,sadzeco01,2019,2022,2,2020 - 2021,"2021 - Triple-A, Charlotte Knights, Nashville Sounds, Chicago White Sox, Milwaukee Brewers"
+31,Tayler,Scott,scottta02,2019,2022,2,2020 - 2021,"2020 - NPB, Hiroshima Toyo Carp"
+32,Kyle,Dowdy,dowdyky01,2019,2022,2,2020 - 2021,"2021 - Triple-A, Columbus Clippers, Cleveland Guardians"
+33,Roenis,Elias,eliasro01,2019,2022,2,2020 - 2021,
+34,Cory,Spangenberg,spangco01,2019,2022,2,2020 - 2021,"2020 - NPB, Saitama Seibu Lions; 2021 - NPB, Saitama Seibu Lions"
+35,Michel,Baez,baezmi01,2020,2022,1,2021 - 2021,
+36,Luke,Bard,bardlu01,2020,2022,1,2021 - 2021,
+37,Jalen,Beeks,beeksja01,2020,2022,1,2021 - 2021,
+38,Silvino,Bracho,brachsi01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Sacramento River Cats, San Francisco Giants; 2021 - Winter Leagues, Aguilas del Zulia, Cardenales de Lara, Leones del Caracas, Venezuela, Office of the Commissioner"
+39,Robinson,Cano,canoro01,2020,2022,1,2021 - 2021,
+40,Yonny,Chirinos,chiriyo01,2020,2022,1,2021 - 2021,
+41,Mike,Clevinger,clevimi01,2020,2022,1,2021 - 2021,
+42,Jesus,Cruz,cruzje01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Memphis Redbirds, St. Louis Cardinals; 2021 - Rookie, FCL Tigers East, Detroit Tigers; 2021 - Winter Leagues, Aguilas de Mexicali, Caribes de Anzoategui, Charros de Jalisco, Office of the Commissioner"
+43,Matt,Davidson,davidma02,2020,2022,1,2021 - 2021,"2021 - Triple-A, Oklahoma City Dodgers, Los Angeles Dodgers"
+44,Travis,Demeritte,demertr01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Gwinnett Stripers, Atlanta Braves; 2021 - Rookie, FCL Braves, Atlanta Braves"
+45,Matt,Dermody,dermoma01,2020,2022,1,2021 - 2021,"2021 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner; 2021 - NPB, Saitama Seibu Lions"
+46,Phillip,Diehl,diehlph01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Louisville Bats, Cincinnati Reds"
+47,Brandon,Dixon,dixonbr01,2020,2022,1,2021 - 2021,"2021 - NPB, Tohoku Rakuten Golden Eagles"
+48,Robbie,Erlin,erlinro01,2020,2022,1,2021 - 2021,"2021 - NPB, Hokkaido Nippon-Ham Fighters"
+49,Caleb,Ferguson,ferguca01,2020,2022,1,2021 - 2021,
+50,Rico,Garcia,garciri01,2020,2022,1,2021 - 2021,
+51,Dee,Strange-Gordon,gordode01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Indianapolis Indians, Iowa Cubs, Nashville Sounds, Chicago Cubs, Milwaukee Brewers, Pittsburgh Pirates"
+52,Terrance,Gore,gorete01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Gwinnett Stripers, Atlanta Braves"
+53,Ian,Hamilton,hamilia01,2020,2022,1,2021 - 2021,"2021 - Triple-A, St. Paul Saints, Minnesota Twins"
+54,Mark,Mathias,mathima01,2020,2022,1,2021 - 2021,
+55,David,McKay,mckayda02,2020,2022,1,2021 - 2021,
+56,Daniel,Mengden,mengdda01,2020,2022,1,2021 - 2021,
+57,Tyson,Miller,millety01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Iowa Cubs, Round Rock Express, Chicago Cubs, Texas Rangers"
+58,Brian,Moran,moranbr01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Durham Bulls, Tampa Bay Rays"
+59,Tommy,Kahnle,kahnlto01,2020,2022,1,2021 - 2021,
+60,Luis,Perdomo,perdolu02,2020,2022,1,2021 - 2021,"2021 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner"
+61,Trevor,Kelley,kelletr01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Gwinnett Stripers, Atlanta Braves"
+62,Justin,Grimm,grimmju01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Tacoma Rainiers, Seattle Mariners"
+63,Matt,Reynolds,reynoma03,2020,2022,1,2021 - 2021,"2021 - Triple-A, Charlotte Knights, Chicago White Sox"
+64,Dereck,Rodriguez,rodride01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Albuquerque Isotopes, Colorado Rockies"
+65,Dany,Jimenez,jimenda02,2020,2022,1,2021 - 2021,"2021 - Triple-A, Buffalo Bisons, Toronto Blue Jays"
+66,Anibal,Sanchez,sanchan01,2020,2022,1,2021 - 2021,
+67,Carlos,Sanchez,sanchca01,2020,2022,1,2021 - 2021,"2021 - Rookie, DSL D-backs2, DSL Orioles2, FCL Orioles Black, FCL Orioles Orange, Arizona Diamondbacks, Baltimore Orioles; 2021 - Winter Leagues, Panama, Office of the Commissioner"
+68,Joel,Kuhnel,kuhnejo01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Louisville Bats, Cincinnati Reds; 2021 - Rookie, ACL Reds, Cincinnati Reds"
+69,Sam,Huff,huffsa01,2020,2022,1,2021 - 2021,"2021 - Double-A, Frisco RoughRiders, Texas Rangers; 2021 - Triple-A, Round Rock Express, Texas Rangers; 2021 - Rookie, ACL Rangers, Texas Rangers; 2021 - Winter Leagues, Surprise Saguaros, Office of the Commissioner"
+70,Foster,Griffin,grifffo01,2020,2022,1,2021 - 2021,"2021 - Low-A, Columbia Fireflies, Kansas City Royals; 2021 - Double-A, Northwest Arkansas Naturals, Kansas City Royals; 2021 - Triple-A, Omaha Storm Chasers, Kansas City Royals; 2021 - Rookie, ACL Royals Blue, ACL Royals Gold, Kansas City Royals"
+71,Jose,Leclerc,leclejo01,2020,2022,1,2021 - 2021,
+72,Jeff,Brigham,brighje01,2020,2022,1,2021 - 2021,
+73,Tyler,Thornburg,thornty01,2020,2022,1,2021 - 2021,
+74,Jonathan,Hernandez,hernajo02,2020,2022,1,2021 - 2021,
+75,Justin,Verlander,verlaju01,2020,2022,1,2021 - 2021,
+76,Meibrys,Viloria,vilorme01,2020,2022,1,2021 - 2021,"2021 - Double-A, Northwest Arkansas Naturals, Kansas City Royals; 2021 - Triple-A, Omaha Storm Chasers, Kansas City Royals; 2021 - Winter Leagues, Estrellas Orientales, Office of the Commissioner"
+77,Tyler,Heineman,heinety01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Lehigh Valley IronPigs, Memphis Redbirds, Philadelphia Phillies, St. Louis Cardinals"
+78,Trevor,Gott,gotttr01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Sacramento River Cats, San Francisco Giants"
+79,Aaron,Whitefield,whiteaa01,2020,2022,1,2021 - 2021,"2021 - Double-A, Wichita Wind Surge, Minnesota Twins; 2021 - Winter Leagues, Criollos de Caguas, Office of the Commissioner"
+80,Jimmy,Yacabonis,yacabji01,2020,2022,1,2021 - 2021,"2021 - Triple-A, Tacoma Rainiers, Seattle Mariners"
+81,Kirby,Yates,yateski01,2020,2022,1,2021 - 2021,
+82,Ken,Giles,gileske01,2020,2022,1,2021 - 2021,

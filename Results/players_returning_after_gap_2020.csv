@@ -1,0 +1,53 @@
+id,nameFirst,nameLast,playerID,last_seen_year,return_year,gap_years,gap_years_range,gap_details
+1,Daniel,Bard,bardda01,2013,2020,6,2014 - 2019,"2014 - Class A, Hickory Crawdads, Texas Rangers; 2016 - Class A Advanced, Palm Beach Cardinals, St. Louis Cardinals; 2016 - Rookie, Johnson City Cardinals, St. Louis Cardinals; 2017 - Double-A, Springfield Cardinals, St. Louis Cardinals; 2017 - Rookie, GCL Mets, New York Mets"
+2,Rafael,Dolis,dolisra01,2013,2020,6,2014 - 2019,"2014 - Triple-A, Fresno Grizzlies, San Francisco Giants; 2014 - Winter Leagues, Estrellas de Oriente, Office of the Commissioner; 2015 - Triple-A, Toledo Mud Hens, Detroit Tigers; 2015 - Winter Leagues, Estrellas de Oriente, Office of the Commissioner; 2016 - Winter Leagues, Estrellas de Oriente, Office of the Commissioner; 2016 - NPB, Hanshin Tigers; 2017 - NPB, Hanshin Tigers; 2018 - NPB, Hanshin Tigers; 2019 - NPB, Hanshin Tigers"
+3,Brooks,Raley,raleybr01,2013,2020,6,2014 - 2019,"2014 - Triple-A, Rochester Red Wings, Salt Lake Bees, Los Angeles Angels, Minnesota Twins; 2014 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner"
+4,Mike,Kickham,kickhmi01,2014,2020,5,2015 - 2019,"2015 - Triple-A, Round Rock Express, Tacoma Rainiers, Seattle Mariners, Texas Rangers; 2016 - Double-A, Richmond Flying Squirrels, San Francisco Giants; 2017 - Double-A, Jacksonville Jumbo Shrimp, Miami Marlins; 2017 - Triple-A, New Orleans Baby Cakes, Miami Marlins; 2018 - Double-A, Jacksonville Jumbo Shrimp, Miami Marlins; 2018 - Triple-A, New Orleans Baby Cakes, Miami Marlins; 2018 - Winter Leagues, Estrellas Orientales, Office of the Commissioner; 2019 - Triple-A, New Orleans Baby Cakes, Miami Marlins; 2019 - Winter Leagues, Naranjeros de Hermosillo, Office of the Commissioner"
+5,Tyler,Matzek,matzety01,2015,2020,4,2016 - 2019,"2016 - Class A Advanced, Modesto Nuts, Colorado Rockies; 2016 - Double-A, Hartford Yard Goats, Colorado Rockies; 2019 - Double-A, Jackson Generals, Mississippi Braves, Arizona Diamondbacks, Atlanta Braves; 2019 - Triple-A, Gwinnett Stripers, Atlanta Braves"
+6,Caleb,Thielbar,thielca01,2015,2020,4,2016 - 2019,"2018 - Double-A, Erie SeaWolves, Detroit Tigers; 2018 - Triple-A, Toledo Mud Hens, Detroit Tigers; 2019 - Triple-A, Gwinnett Stripers, Toledo Mud Hens, Atlanta Braves, Detroit Tigers"
+7,Oscar,Hernandez,hernaos01,2016,2020,3,2017 - 2019,"2017 - Double-A, Jackson Generals, Arizona Diamondbacks; 2018 - Triple-A, Pawtucket Red Sox, Boston Red Sox; 2019 - Double-A, Portland Sea Dogs, Boston Red Sox; 2019 - Triple-A, Pawtucket Red Sox, Boston Red Sox"
+8,Colin,Rea,reaco01,2016,2020,3,2017 - 2019,"2018 - Double-A, San Antonio Missions, San Diego Padres; 2018 - Triple-A, El Paso Chihuahuas, San Diego Padres; 2019 - Triple-A, Iowa Cubs, Pacific Coast League All-Stars, Chicago Cubs"
+9,Darin,Ruf,rufda01,2016,2020,3,2017 - 2019,
+10,Emilio,Bonifacio,bonifem01,2017,2020,2,2018 - 2019,"2018 - Triple-A, Colorado Springs Sky Sox, Milwaukee Brewers; 2019 - Triple-A, Durham Bulls, Tampa Bay Rays"
+11,Matt,Dermody,dermoma01,2017,2020,2,2018 - 2019,"2018 - Triple-A, Buffalo Bisons, Toronto Blue Jays; 2019 - Triple-A, Buffalo Bisons, Toronto Blue Jays"
+12,Brett,Eibner,eibnebr01,2017,2020,2,2018 - 2019,
+13,Paolo,Espino,espinpa01,2017,2020,2,2018 - 2019,"2018 - Triple-A, Colorado Springs Sky Sox, Round Rock Express, Milwaukee Brewers, Texas Rangers; 2018 - Winter Leagues, Toros del Este, Office of the Commissioner; 2019 - Triple-A, Fresno Grizzlies, Washington Nationals; 2019 - Rookie, GCL Nationals, Washington Nationals; 2019 - Winter Leagues, Dominican Republic, Toros del Este, Office of the Commissioner"
+14,Seth,Frankoff,frankse01,2017,2020,2,2018 - 2019,"2018 - Winter Leagues, Leones del Caracas, Office of the Commissioner"
+15,Josh,Lindblom,lindbjo01,2017,2020,2,2018 - 2019,
+16,Joely,Rodriguez,rodrijo04,2017,2020,2,2018 - 2019,"2018 - Double-A, Bowie Baysox, Baltimore Orioles; 2018 - Triple-A, Norfolk Tides, Baltimore Orioles; 2018 - NPB, Chunichi Dragons; 2019 - NPB, Chunichi Dragons"
+17,Nik,Turley,turleni01,2017,2020,2,2018 - 2019,
+18,Cesar,Valdez,valdece01,2017,2020,2,2018 - 2019,"2018 - Triple-A, Leones de Yucatan, Olmecas de Tabasco, Office of the Commissioner; 2019 - Triple-A, Leones de Yucatan, Mexican League Sur All-Stars, Office of the Commissioner"
+19,Adolis,Garcia,garciad02,2018,2020,1,2019 - 2019,"2019 - Major League Baseball, Memphis Redbirds, St. Louis Cardinals; 2019 - Triple-A, Memphis Redbirds, St. Louis Cardinals"
+20,Austin,Gomber,gombeau01,2018,2020,1,2019 - 2019,"2019 - Class A Advanced, Palm Beach Cardinals, St. Louis Cardinals; 2019 - Double-A, Springfield Cardinals, St. Louis Cardinals; 2019 - Major League Baseball, Memphis Redbirds, St. Louis Cardinals; 2019 - Triple-A, Memphis Redbirds, St. Louis Cardinals"
+21,Kendall,Graveman,graveke01,2018,2020,1,2019 - 2019,"2019 - Class A, South Bend Cubs, Chicago Cubs; 2019 - Triple-A, Iowa Cubs, Chicago Cubs; 2019 - Rookie, AZL Cubs 1, Chicago Cubs"
+22,Justin,Grimm,grimmju01,2018,2020,1,2019 - 2019,"2019 - Triple-A, Louisville Bats, Oklahoma City Dodgers, Cincinnati Reds, Los Angeles Dodgers"
+23,Ian,Hamilton,hamilia01,2018,2020,1,2019 - 2019,"2019 - Triple-A, Charlotte Knights, Chicago White Sox"
+24,Dilson,Herrera,herredi01,2018,2020,1,2019 - 2019,"2019 - Triple-A, International League All-Stars, Syracuse Mets, New York Mets"
+25,Pierce,Johnson,johnspi01,2018,2020,1,2019 - 2019,"2019 - NPB, Hanshin Tigers"
+26,Corey,Knebel,knebeco01,2018,2020,1,2019 - 2019,
+27,Chad,Kuhl,kuhlch01,2018,2020,1,2019 - 2019,
+28,Artie,Lewicki,lewicar01,2018,2020,1,2019 - 2019,
+29,Silvino,Bracho,brachsi01,2018,2020,1,2019 - 2019,
+30,Jose,Briceno,bricejo01,2018,2020,1,2019 - 2019,"2019 - Triple-A, Salt Lake Bees, Los Angeles Angels"
+31,Lance,McCullers,mcculla02,2018,2020,1,2019 - 2019,
+32,Ryan,Meisinger,meisiry01,2018,2020,1,2019 - 2019,"2019 - Triple-A, Memphis Redbirds, St. Louis Cardinals; 2019 - Major League Baseball, Memphis Redbirds, St. Louis Cardinals, St. Louis Cardinals"
+33,Nate,Orf,orfna01,2018,2020,1,2019 - 2019,"2019 - Triple-A, San Antonio Missions, Milwaukee Brewers"
+34,Salvador,Perez,perezsa02,2018,2020,1,2019 - 2019,
+35,Rex,Brothers,brothre01,2018,2020,1,2019 - 2019,"2019 - Class A Short Season, Staten Island Yankees, New York Yankees; 2019 - Triple-A, Scranton/Wilkes-Barre RailRiders, New York Yankees"
+36,AJ,Ramos,ramosaj01,2018,2020,1,2019 - 2019,
+37,Cody,Carroll,carroco01,2018,2020,1,2019 - 2019,"2019 - Rookie, GCL Orioles, Baltimore Orioles; 2019 - Winter Leagues, Surprise Saguaros, Office of the Commissioner"
+38,Rob,Refsnyder,refsnro01,2018,2020,1,2019 - 2019,"2019 - Triple-A, Louisville Bats, Reno Aces, Arizona Diamondbacks, Cincinnati Reds; 2019 - Rookie, AZL Reds, Cincinnati Reds"
+39,Matt,Reynolds,reynoma03,2018,2020,1,2019 - 2019,"2019 - Triple-A, Fresno Grizzlies, Washington Nationals"
+40,Danny,Coulombe,couloda01,2018,2020,1,2019 - 2019,"2019 - Triple-A, San Antonio Missions, Scranton/Wilkes-Barre RailRiders, Milwaukee Brewers, New York Yankees"
+41,Andrew,Romine,rominan01,2018,2020,1,2019 - 2019,"2019 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies"
+42,Matt,Davidson,davidma02,2018,2020,1,2019 - 2019,"2019 - Major League Baseball, Nashville Sounds, Texas Rangers, Texas Rangers; 2019 - Triple-A, Nashville Sounds, Texas Rangers"
+43,Ryan,Sherriff,sherrry01,2018,2020,1,2019 - 2019,"2019 - Class A Advanced, Charlotte Stone Crabs, Tampa Bay Rays; 2019 - Triple-A, Durham Bulls, Tampa Bay Rays; 2019 - Rookie, GCL Rays, Tampa Bay Rays"
+44,Drew,Smith,smithdr01,2018,2020,1,2019 - 2019,
+45,Steven,Souza,souzast01,2018,2020,1,2019 - 2019,
+46,Andrew,Susac,susacan01,2018,2020,1,2019 - 2019,"2019 - Triple-A, Omaha Storm Chasers, Kansas City Royals"
+47,Yoenis,Cespedes,cespeyo01,2018,2020,1,2019 - 2019,
+48,Andrew,Triggs,triggan01,2018,2020,1,2019 - 2019,"2019 - Triple-A, Las Vegas Aviators, Oakland Athletics"
+49,Phillip,Evans,evansph01,2018,2020,1,2019 - 2019,"2019 - Triple-A, Iowa Cubs, Chicago Cubs; 2019 - Winter Leagues, Aguilas de Mexicali, Leones del Escogido, Office of the Commissioner"
+50,Michael,Fulmer,fulmemi01,2018,2020,1,2019 - 2019,
+51,Bobby,Wahl,wahlbo01,2018,2020,1,2019 - 2019,"2019 - Winter Leagues, Glendale Desert Dogs, Office of the Commissioner"
+52,Justin,Williams,williju02,2018,2020,1,2019 - 2019,"2019 - Double-A, Springfield Cardinals, St. Louis Cardinals; 2019 - Triple-A, Memphis Redbirds, St. Louis Cardinals; 2019 - Winter Leagues, Aguilas de Mexicali, Office of the Commissioner"

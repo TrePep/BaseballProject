@@ -1,0 +1,81 @@
+id,nameFirst,nameLast,playerID,last_seen_year,return_year,gap_years,gap_years_range,gap_details
+1,Robinson,Cancel,cancero01,1999,2008,8,2000 - 2007,"2007 - Double-A, Binghamton Mets, New York Mets; 2007 - Triple A, New Orleans Zephyrs, New York Mets"
+2,Adam,Pettyjohn,pettyad01,2001,2008,6,2002 - 2007,"2007 - Double-A, Huntsville Stars, Milwaukee Brewers; 2007 - Triple A, Nashville Sounds, Milwaukee Brewers"
+3,Brandon,Knight,knighbr01,2002,2008,5,2003 - 2007,"2003 - NPB, Fukuoka Daiei Hawks; 2004 - NPB, Fukuoka Daiei Hawks; 2005 - NPB, Hokkaido Nippon-Ham Fighters"
+4,Oscar,Salazar,salazos01,2002,2008,5,2003 - 2007,"2007 - Double-A, Bowie Baysox, Baltimore Orioles"
+5,Michel,Hernandez,hernami01,2003,2008,4,2004 - 2007,"2007 - Triple A, Durham Bulls, Tampa Bay Rays"
+6,Shane,Loux,louxsh01,2003,2008,4,2004 - 2007,
+7,Sean,Burnett,burnese01,2004,2008,3,2005 - 2007,"2007 - Triple A, Indianapolis Indians, Pittsburgh Pirates"
+8,Nelson,Figueroa,figuene01,2004,2008,3,2005 - 2007,"2007 - Triple A, Dorados de Chihuahua, Mexican League Norte All-Stars, Office of the Commissioner"
+9,Francis,Beltran,beltrfr01,2004,2008,3,2005 - 2007,"2007 - Triple A, Norfolk Tides, Baltimore Orioles"
+10,Mark,Johnson,johnsma02,2004,2008,3,2005 - 2007,"2007 - Triple A, Pacific Coast League All-Stars, Tucson Sidewinders, Arizona Diamondbacks"
+11,Jolbert,Cabrera,cabrejo02,2004,2008,3,2005 - 2007,"2007 - Single A (Advanced), Palm Beach Cardinals, St. Louis Cardinals; 2007 - Triple A, Colorado Springs Sky Sox, Memphis Redbirds, Colorado Rockies, St. Louis Cardinals; 2007 - Major League Baseball, Memphis Redbirds, St. Louis Cardinals, St. Louis Cardinals; 2005 - NPB, Fukuoka Softbank Hawks; 2006 - NPB, Fukuoka Softbank Hawks"
+12,Mike,Lincoln,lincomi01,2004,2008,3,2005 - 2007,
+13,Vladimir,Nunez,nunezvl01,2004,2008,3,2005 - 2007,"2007 - Triple A, Charlotte Knights, Chicago White Sox"
+14,Andy,Tracy,tracyan01,2004,2008,3,2005 - 2007,"2007 - Triple A, New Orleans Zephyrs, New York Mets; 2005 - NPB, Tohoku Rakuten Golden Eagles"
+15,Merkin,Valdez,valdeme01,2004,2008,3,2005 - 2007,
+16,Jody,Gerut,gerutjo01,2005,2008,2,2006 - 2007,
+17,D. J.,Carrasco,carradj01,2005,2008,2,2006 - 2007,"2007 - Triple A, Tucson Sidewinders, Arizona Diamondbacks; 2006 - NPB, Fukuoka Softbank Hawks"
+18,Matt,Ginter,gintema01,2005,2008,2,2006 - 2007,"2007 - Triple A, Memphis Redbirds, Nashville Sounds, Milwaukee Brewers, St. Louis Cardinals; 2007 - Major League Baseball, Memphis Redbirds, St. Louis Cardinals"
+19,Mike,Hampton,hamptmi01,2005,2008,2,2006 - 2007,
+20,Valerio,De Los Santos,delosva01,2005,2008,2,2006 - 2007,"2007 - Triple A, Dorados de Chihuahua, Mexican League Norte All-Stars, Sultanes de Monterrey, Office of the Commissioner"
+21,Chad,Fox,foxch02,2005,2008,2,2006 - 2007,
+22,Hideo,Nomo,nomohi01,2005,2008,2,2006 - 2007,
+23,Keiichi,Yabu,yabuke01,2005,2008,2,2006 - 2007,
+24,Dane,Sardinha,sardida01,2005,2008,2,2006 - 2007,"2007 - Triple A, Toledo Mud Hens, Detroit Tigers"
+25,Roy,Corcoran,corcoro01,2006,2008,1,2007 - 2007,"2007 - Triple A, Albuquerque Isotopes, Miami Marlins"
+26,Francisco,Cruceta,crucefr01,2006,2008,1,2007 - 2007,"2007 - Triple A, Oklahoma RedHawks, Texas Rangers"
+27,Chris,Denorfia,denorch01,2006,2008,1,2007 - 2007,
+28,Jose,Diaz,diazjo01,2006,2008,1,2007 - 2007,"2007 - Single A (Full Season), Hickory Crawdads, Pittsburgh Pirates; 2007 - Single A (Advanced), Lynchburg Hillcats, Pittsburgh Pirates; 2007 - Rookie, Burlington Royals, GCL Pirates, VSL Mets, VSL Tigers, Detroit Tigers, Kansas City Royals, New York Mets, Pittsburgh Pirates"
+29,R. A.,Dickey,dickera01,2006,2008,1,2007 - 2007,"2007 - Triple A, Nashville Sounds, Milwaukee Brewers"
+30,Shawn,Estes,estessh01,2006,2008,1,2007 - 2007,"2007 - Single A (Advanced), Lake Elsinore Storm, San Diego Padres; 2007 - Triple A, Portland Beavers, San Diego Padres; 2007 - Rookie, AZL Padres, San Diego Padres"
+31,Jeff,Fiorentino,fioreje01,2006,2008,1,2007 - 2007,"2007 - Double-A, Bowie Baysox, Baltimore Orioles"
+32,Keith,Foulke,foulkke01,2006,2008,1,2007 - 2007,
+33,Jeff,Fulchino,fulchje01,2006,2008,1,2007 - 2007,"2007 - Triple A, Albuquerque Isotopes, Miami Marlins"
+34,Franklyn,German,germafr01,2006,2008,1,2007 - 2007,"2007 - Triple A, Oklahoma RedHawks, Texas Rangers"
+35,Craig,Hansen,hansecr01,2006,2008,1,2007 - 2007,"2007 - Triple A, Pawtucket Red Sox, Boston Red Sox"
+36,Runelvys,Hernandez,hernaru03,2006,2008,1,2007 - 2007,"2007 - Triple A, Indianapolis Indians, Pawtucket Red Sox, Scranton/Wilkes-Barre Yankees, Boston Red Sox, New York Yankees, Pittsburgh Pirates"
+37,Travis,Ishikawa,ishiktr01,2006,2008,1,2007 - 2007,"2007 - Single A (Advanced), San Jose Giants, San Francisco Giants; 2007 - Double-A, Connecticut Defenders, San Francisco Giants"
+38,Zach,Jackson,jacksza01,2006,2008,1,2007 - 2007,"2007 - Triple A, Nashville Sounds, Milwaukee Brewers"
+39,Cesar,Jimenez,jimence01,2006,2008,1,2007 - 2007,"2007 - Triple A, Tacoma Rainiers, Seattle Mariners; 2007 - Rookie, AZL Mariners, Seattle Mariners"
+40,Jason,Johnson,johnsja02,2006,2008,1,2007 - 2007,"2007 - NPB, Seibu Lions"
+41,Nick,Johnson,johnsni01,2006,2008,1,2007 - 2007,
+42,Gabe,Kapler,kaplega01,2006,2008,1,2007 - 2007,
+43,Josh,Kinney,kinnejo01,2006,2008,1,2007 - 2007,
+44,Chris,Aguila,aguilch01,2006,2008,1,2007 - 2007,"2007 - Triple A, Indianapolis Indians, Pittsburgh Pirates"
+45,Danny,Ardoin,ardoida01,2006,2008,1,2007 - 2007,"2007 - Major League Baseball, Round Rock Express, Houston Astros; 2007 - Triple A, Memphis Redbirds, Round Rock Express, Houston Astros, St. Louis Cardinals"
+46,Francisco,Liriano,liriafr01,2006,2008,1,2007 - 2007,
+47,Joaquin,Arias,ariasjo01,2006,2008,1,2007 - 2007,"2007 - Triple A, Oklahoma RedHawks, Texas Rangers; 2007 - Rookie, AZL Rangers, Texas Rangers"
+48,Mitch,Maier,maiermi01,2006,2008,1,2007 - 2007,"2007 - Triple A, Omaha Royals, Kansas City Royals"
+49,Dallas,McPherson,mcpheda01,2006,2008,1,2007 - 2007,
+50,Kent,Mercker,merckke01,2006,2008,1,2007 - 2007,
+51,Joe,Nelson,nelsojo01,2006,2008,1,2007 - 2007,
+52,Fernando,Nieve,nievefe01,2006,2008,1,2007 - 2007,"2007 - Double-A, Round Rock Express, Houston Astros; 2007 - Major League Baseball, Houston Astros, None; 2007 - Triple A, Round Rock Express, Houston Astros"
+53,Willy,Aybar,aybarwi01,2006,2008,1,2007 - 2007,
+54,Rick,Bauer,bauerri01,2006,2008,1,2007 - 2007,"2007 - Triple A, Las Vegas 51s, Ottawa Lynx, Los Angeles Dodgers, Philadelphia Phillies"
+55,Mike,O'Connor,oconnmi01,2006,2008,1,2007 - 2007,
+56,David,Pauley,pauleda01,2006,2008,1,2007 - 2007,"2007 - Triple A, Pawtucket Red Sox, Boston Red Sox"
+57,Tomas,Perez,perezto03,2006,2008,1,2007 - 2007,"2007 - Triple A, Charlotte Knights, Las Vegas 51s, Chicago White Sox, Los Angeles Dodgers"
+58,T. J.,Beam,beamtj01,2006,2008,1,2007 - 2007,"2007 - Triple A, Scranton/Wilkes-Barre Yankees, New York Yankees; 2007 - Rookie, GCL Yankees, New York Yankees"
+59,Jason,Repko,repkoja01,2006,2008,1,2007 - 2007,
+60,T. J.,Bohn,bohntj01,2006,2008,1,2007 - 2007,"2007 - Double-A, Mississippi Braves, Atlanta Braves; 2007 - Triple A, Richmond Braves, Atlanta Braves; 2007 - Rookie, GCL Braves, Atlanta Braves"
+61,Ricardo,Rincon,rincori01,2006,2008,1,2007 - 2007,"2007 - Triple A, Fresno Grizzlies, San Francisco Giants"
+62,Josh,Rupe,rupejo01,2006,2008,1,2007 - 2007,"2007 - Triple A, Oklahoma RedHawks, Texas Rangers; 2007 - Rookie, AZL Rangers, Texas Rangers"
+63,Glendon,Rusch,ruschgl01,2006,2008,1,2007 - 2007,
+64,Billy,Sadler,sadlebi01,2006,2008,1,2007 - 2007,"2007 - Double-A, Connecticut Defenders, San Francisco Giants; 2007 - Triple A, Fresno Grizzlies, San Francisco Giants"
+65,Craig,Breslow,breslcr01,2006,2008,1,2007 - 2007,"2007 - Triple A, International League All-Stars, Pawtucket Red Sox, Boston Red Sox"
+66,Duaner,Sanchez,sanchdu01,2006,2008,1,2007 - 2007,
+67,Mike,Adams,adamsmi03,2006,2008,1,2007 - 2007,
+68,Chris,Shelton,sheltch01,2006,2008,1,2007 - 2007,"2007 - Triple A, Toledo Mud Hens, Detroit Tigers"
+69,Brian,Slocum,slocubr01,2006,2008,1,2007 - 2007,"2007 - Triple A, Buffalo Bisons, Cleveland Guardians"
+70,Arthur,Rhodes,rhodear01,2006,2008,1,2007 - 2007,
+71,Phil,Stockman,stockph01,2006,2008,1,2007 - 2007,"2007 - Double-A, Mississippi Braves, Atlanta Braves; 2007 - Triple A, Richmond Braves, Atlanta Braves; 2007 - Rookie, GCL Braves, Atlanta Braves"
+72,Tanyon,Sturtze,sturtta01,2006,2008,1,2007 - 2007,"2007 - Single A (Full Season), Rome Braves, Atlanta Braves; 2007 - Double-A, Mississippi Braves, Atlanta Braves; 2007 - Triple A, Richmond Braves, Atlanta Braves; 2007 - Rookie, GCL Braves, Atlanta Braves"
+73,Fernando,Tatis,tatisfe01,2006,2008,1,2007 - 2007,"2007 - Triple A, New Orleans Zephyrs, New York Mets"
+74,Joe,Thurston,thursjo01,2006,2008,1,2007 - 2007,"2007 - Double-A, Reading Phillies, Philadelphia Phillies; 2007 - Triple A, Ottawa Lynx, Philadelphia Phillies"
+75,Terry,Tiffee,tiffete01,2006,2008,1,2007 - 2007,"2007 - Triple A, Norfolk Tides, Baltimore Orioles"
+76,Andy,Cannizaro,cannian01,2006,2008,1,2007 - 2007,"2007 - Double-A, Trenton Thunder, New York Yankees; 2007 - Triple A, Scranton/Wilkes-Barre Yankees, New York Yankees"
+77,Raul,Chavez,chavera01,2006,2008,1,2007 - 2007,"2007 - Triple A, Scranton/Wilkes-Barre Yankees, New York Yankees"
+78,Doug,Waechter,waechdo01,2006,2008,1,2007 - 2007,"2007 - Single A (Advanced), Vero Beach Devil Rays, Tampa Bay Rays; 2007 - Single A (Short Season), Hudson Valley Renegades, Tampa Bay Rays"
+79,Les,Walrond,walrole01,2006,2008,1,2007 - 2007,"2007 - Triple A, Iowa Cubs, Chicago Cubs"
+80,J. T.,Snow,snowjt01,2006,2008,1,2007 - 2007,

@@ -1,0 +1,5 @@
+id,nameFirst,nameLast,playerID,last_seen_year,return_year,gap_years,gap_years_range,gap_details
+1,Bob,Addy,addybo01,1871,1873,1,1872 - 1872,
+2,Joe,Battin,battijo01,1871,1873,1,1872 - 1872,
+3,Henry,Kohler,kohlehe01,1871,1873,1,1872 - 1872,
+4,Nealy,Phelps,phelpne01,1871,1873,1,1872 - 1872,

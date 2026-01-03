@@ -1,0 +1,71 @@
+id,nameFirst,nameLast,playerID,last_seen_year,return_year,gap_years,gap_years_range,gap_details
+1,Doug,Bernier,bernido01,2008,2013,4,2009 - 2012,"2009 - Triple A, Scranton/Wilkes-Barre Yankees, New York Yankees; 2010 - Triple-A, Indianapolis Indians, Pittsburgh Pirates; 2011 - Triple-A, Scranton/Wilkes-Barre Yankees, New York Yankees; 2012 - Triple-A, Scranton/Wilkes-Barre Yankees, New York Yankees"
+2,Luke,Montz,montzlu01,2008,2013,4,2009 - 2012,"2009 - Double-A, Harrisburg Senators, Washington Nationals; 2009 - Triple A, Syracuse Chiefs, Washington Nationals; 2010 - Class A Advanced, St. Lucie Mets, New York Mets; 2010 - Double-A, Binghamton Mets, New York Mets; 2010 - Rookie, GCL Mets, New York Mets; 2011 - Double-A, Jacksonville Suns, SOU South Division All-Stars, Miami Marlins; 2012 - Triple-A, New Orleans Zephyrs, Miami Marlins"
+3,Greg,Burke,burkegr01,2009,2013,3,2010 - 2012,"2010 - Triple-A, Portland Beavers, San Diego Padres; 2011 - Triple-A, Tucson Padres, San Diego Padres; 2012 - Double-A, Bowie Baysox, Baltimore Orioles; 2012 - Triple-A, Norfolk Tides, Baltimore Orioles"
+4,Chris,Bootcheck,bootcch01,2009,2013,3,2010 - 2012,"2011 - Triple-A, Durham Bulls, Tampa Bay Rays; 2012 - Major League Baseball, Toledo Mud Hens, Detroit Tigers; 2012 - Triple-A, International League All-Stars, Toledo Mud Hens, Detroit Tigers; 2010 - NPB, Yokohama BayStars"
+5,Logan,Kensing,kensilo01,2009,2013,3,2010 - 2012,"2011 - Triple-A, Scranton/Wilkes-Barre Yankees, New York Yankees; 2012 - Class A Advanced, Bradenton Marauders, Pittsburgh Pirates; 2012 - Double-A, Altoona Curve, Pittsburgh Pirates; 2012 - Triple-A, Indianapolis Indians, Pittsburgh Pirates"
+6,Sean,Henn,hennse01,2009,2013,3,2010 - 2012,"2010 - Triple-A, Las Vegas 51s, Toronto Blue Jays; 2011 - Triple-A, Las Vegas 51s, Toronto Blue Jays; 2012 - Triple-A, Tacoma Rainiers, Seattle Mariners"
+7,Shairon,Martis,martish01,2009,2013,3,2010 - 2012,"2010 - Triple-A, Syracuse Chiefs, Washington Nationals; 2011 - Double-A, Harrisburg Senators, Washington Nationals; 2012 - Double-A, Altoona Curve, New Britain Rock Cats, Minnesota Twins, Pittsburgh Pirates; 2012 - Triple-A, Indianapolis Indians, Rochester Red Wings, Minnesota Twins, Pittsburgh Pirates"
+8,Neal,Cotts,cottsne01,2009,2013,3,2010 - 2012,"2012 - Triple-A, Round Rock Express, Texas Rangers"
+9,Freddy,Guzman,guzmafr01,2009,2013,3,2010 - 2012,"2011 - Triple-A, Acereros del Norte, Leones de Yucatan, Petroleros de Minatitlan, Office of the Commissioner; 2012 - Triple-A, Delfines de Ciudad del Carmen, Mexican League Sur All-Stars, Office of the Commissioner"
+10,Zach,Miner,minerza01,2009,2013,3,2010 - 2012,"2011 - Double-A, Northwest Arkansas Naturals, Kansas City Royals; 2011 - Triple-A, Omaha Storm Chasers, Kansas City Royals; 2012 - Double-A, Erie SeaWolves, Detroit Tigers; 2012 - Triple-A, Toledo Mud Hens, Detroit Tigers; 2012 - Rookie, GCL Tigers, Detroit Tigers"
+11,Brendan,Harris,harribr01,2010,2013,2,2011 - 2012,"2011 - Triple-A, Norfolk Tides, Baltimore Orioles; 2012 - Triple-A, Colorado Springs Sky Sox, Colorado Rockies"
+12,Jeremy,Bonderman,bondeje01,2010,2013,2,2011 - 2012,
+13,Jordan,Brown,brownjo05,2010,2013,2,2011 - 2012,"2011 - Triple-A, Columbus Clippers, Nashville Sounds, Cleveland Guardians, Milwaukee Brewers; 2012 - Triple-A, Nashville Sounds, Piratas de Campeche, Milwaukee Brewers, Office of the Commissioner"
+14,Billy,Buckner,bucknbi02,2010,2013,2,2011 - 2012,"2011 - Triple-A, Colorado Springs Sky Sox, Colorado Rockies; 2012 - Double-A, Portland Sea Dogs, Boston Red Sox; 2012 - Triple-A, Pawtucket Red Sox, Boston Red Sox"
+15,Pedro,Feliciano,felicpe01,2010,2013,2,2011 - 2012,"2011 - Rookie, GCL Yankees, New York Yankees; 2012 - Class A Advanced, Tampa Yankees, New York Yankees; 2012 - Class A Short Season, Staten Island Yankees, New York Yankees; 2012 - Double-A, Trenton Thunder, New York Yankees; 2012 - Rookie, GCL Yankees, New York Yankees"
+16,Alfredo,Figaro,figaral01,2010,2013,2,2011 - 2012,"2011 - NPB, Orix Buffaloes; 2012 - NPB, Orix Buffaloes"
+17,John,Maine,mainejo01,2010,2013,2,2011 - 2012,"2011 - Triple-A, Colorado Springs Sky Sox, Colorado Rockies; 2012 - Triple-A, Scranton/Wilkes-Barre Yankees, New York Yankees"
+18,Corky,Miller,milleco01,2010,2013,2,2011 - 2012,"2011 - Triple-A, Louisville Bats, Cincinnati Reds; 2012 - Triple-A, Louisville Bats, Cincinnati Reds"
+19,Daniel,Stange,stangda01,2010,2013,2,2011 - 2012,"2011 - Triple-A, Reno Aces, Tigres de Quintana Roo, Arizona Diamondbacks, Office of the Commissioner; 2012 - Double-A, San Antonio Missions, San Diego Padres; 2012 - Triple-A, Reno Aces, Tucson Padres, Arizona Diamondbacks, San Diego Padres"
+20,Matt,Tuiasosopo,tuiasma01,2010,2013,2,2011 - 2012,"2011 - Triple-A, Tacoma Rainiers, Seattle Mariners; 2012 - Triple-A, Buffalo Bisons, New York Mets"
+21,Ross,Wolf,wolfro01,2010,2013,2,2011 - 2012,"2011 - Major League Baseball, Houston Astros, Oklahoma City RedHawks, Houston Astros; 2011 - Triple-A, Oklahoma City RedHawks, Houston Astros; 2012 - Double-A, Bowie Baysox, Frisco RoughRiders, Baltimore Orioles, Texas Rangers; 2012 - Triple-A, Round Rock Express, Texas Rangers"
+22,Matt,Daley,daleyma01,2011,2013,1,2012 - 2012,
+23,Danny,Farquhar,farquda01,2011,2013,1,2012 - 2012,"2012 - Double-A, New Hampshire Fisher Cats, Trenton Thunder, New York Yankees, Toronto Blue Jays; 2012 - Triple-A, Sacramento River Cats, Scranton/Wilkes-Barre Yankees, Tacoma Rainiers, New York Yankees, Oakland Athletics, Seattle Mariners"
+24,Scott,Baker,bakersc02,2011,2013,1,2012 - 2012,"2012 - Class A Advanced, Fort Myers Miracle, Minnesota Twins"
+25,Jon,Garland,garlajo01,2011,2013,1,2012 - 2012,
+26,Cole,Gillespie,gilleco01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Reno Aces, Arizona Diamondbacks"
+27,J. C.,Gutierrez,gutieju01,2011,2013,1,2012 - 2012,
+28,Brad,Hawpe,hawpebr01,2011,2013,1,2012 - 2012,"2012 - Double-A, Frisco RoughRiders, Texas Rangers"
+29,Cesar,Jimenez,jimence01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Tacoma Rainiers, Seattle Mariners; 2012 - Rookie, AZL Mariners, Seattle Mariners"
+30,Scott,Kazmir,kazmisc01,2011,2013,1,2012 - 2012,
+31,Michael,Kohn,kohnmi01,2011,2013,1,2012 - 2012,
+32,John,Lackey,lackejo01,2011,2013,1,2012 - 2012,
+33,Andy,LaRoche,larocan01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Columbus Clippers, Pawtucket Red Sox, Boston Red Sox, Cleveland Guardians"
+34,Chris,Marrero,marrech01,2011,2013,1,2012 - 2012,"2012 - Class A, Hagerstown Suns, Washington Nationals; 2012 - Class A Advanced, Potomac Nationals, Washington Nationals; 2012 - Class A Short Season, Auburn Doubledays, Washington Nationals; 2012 - Double-A, Harrisburg Senators, Washington Nationals; 2012 - Triple-A, Syracuse Chiefs, Washington Nationals"
+35,Victor,Martinez,martivi01,2011,2013,1,2012 - 2012,
+36,Yunesky,Maya,mayayu01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Syracuse Chiefs, Washington Nationals"
+37,Dustin,McGowan,mcgowdu01,2011,2013,1,2012 - 2012,
+38,Dellin,Betances,betande01,2011,2013,1,2012 - 2012,"2012 - Double-A, Trenton Thunder, New York Yankees; 2012 - Triple-A, Scranton/Wilkes-Barre Yankees, New York Yankees"
+39,Julio,Borbon,borboju01,2011,2013,1,2012 - 2012,"2012 - Major League Baseball, Round Rock Express, Texas Rangers, Texas Rangers; 2012 - Triple-A, Round Rock Express, Texas Rangers, Texas Rangers"
+40,Dave,Bush,bushda01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies"
+41,Efren,Navarro,navaref01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Salt Lake Bees, Los Angeles Angels"
+42,Hideki,Okajima,okajihi01,2011,2013,1,2012 - 2012,"2012 - NPB, Fukuoka Softbank Hawks"
+43,Ramon,Ortiz,ortizra01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Scranton/Wilkes-Barre Yankees, New York Yankees"
+44,Sean,O'Sullivan,osullse01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Las Vegas 51s, Omaha Storm Chasers, Kansas City Royals, Toronto Blue Jays"
+45,Matt,Pagnozzi,pagnoma01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Columbus Clippers, Cleveland Guardians"
+46,Brad,Peacock,peacobr01,2011,2013,1,2012 - 2012,"2012 - Major League Baseball, Sacramento River Cats, Oakland Athletics; 2012 - Triple-A, Sacramento River Cats, Oakland Athletics"
+47,Felix,Pie,piefe01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Gwinnett Braves, Atlanta Braves"
+48,David,Purcey,purceda01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies"
+49,Wilkin,Ramirez,ramirwi01,2011,2013,1,2012 - 2012,"2012 - Class A Advanced, Fort Myers Miracle, Minnesota Twins; 2012 - Double-A, New Britain Rock Cats, Minnesota Twins; 2012 - Triple-A, Rochester Red Wings, Minnesota Twins"
+50,Greg,Reynolds,reynogr01,2011,2013,1,2012 - 2012,"2012 - Major League Baseball, Round Rock Express, Texas Rangers; 2012 - Triple-A, Round Rock Express, Texas Rangers"
+51,Rene,Rivera,riverre01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Rochester Red Wings, Minnesota Twins"
+52,Austin,Romine,rominau01,2011,2013,1,2012 - 2012,"2012 - Class A Advanced, Tampa Yankees, New York Yankees; 2012 - Triple-A, Scranton/Wilkes-Barre Yankees, New York Yankees; 2012 - Rookie, GCL Yankees, New York Yankees"
+53,Chance,Ruffin,ruffich01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Tacoma Rainiers, Seattle Mariners"
+54,Alex,Sanabia,sanabal01,2011,2013,1,2012 - 2012,"2012 - Triple-A, New Orleans Zephyrs, Miami Marlins; 2012 - Rookie, GCL Marlins, Miami Marlins"
+55,Angel,Sanchez,sanchan02,2011,2013,1,2012 - 2012,"2012 - Class A Advanced, Rancho Cucamonga Quakes, Los Angeles Dodgers; 2012 - Triple-A, Oklahoma City RedHawks, Houston Astros; 2012 - Rookie, DSL Pirates2, Pittsburgh Pirates"
+56,JB,Shuck,shuckja01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Oklahoma City RedHawks, Houston Astros"
+57,Scott,Sizemore,sizemsc01,2011,2013,1,2012 - 2012,
+58,Kevin,Slowey,sloweke01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Columbus Clippers, Cleveland Guardians"
+59,Joakim,Soria,soriajo01,2011,2013,1,2012 - 2012,
+60,Carlos,Carrasco,carraca01,2011,2013,1,2012 - 2012,"2012 - Double-A, Akron Aeros, Cleveland Guardians"
+61,Eric,Surkamp,surkaer01,2011,2013,1,2012 - 2012,
+62,Miguel,Tejada,tejadmi01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Norfolk Tides, Baltimore Orioles"
+63,Alex,Torres,torreal01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Durham Bulls, Tampa Bay Rays; 2012 - Rookie, GCL Rays, Tampa Bay Rays"
+64,Ramon,Troncoso,troncra01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Albuquerque Isotopes, Los Angeles Dodgers"
+65,Robinson,Chirinos,chiriro01,2011,2013,1,2012 - 2012,
+66,Chris,Valaika,valaich01,2011,2013,1,2012 - 2012,"2012 - Triple-A, Louisville Bats, Cincinnati Reds; 2012 - Rookie, AZL Reds, Cincinnati Reds"
+67,Neil,Wagner,wagnene01,2011,2013,1,2012 - 2012,"2012 - Major League Baseball, Sacramento River Cats, Oakland Athletics; 2012 - Triple-A, Sacramento River Cats, Tucson Padres, Oakland Athletics, San Diego Padres"
+68,Josh,Wilson,wilsojo03,2011,2013,1,2012 - 2012,"2012 - Triple-A, Gwinnett Braves, Atlanta Braves; 2012 - Rookie, GCL Cardinals, St. Louis Cardinals"
+69,Trevor,Crowe,crowetr01,2011,2013,1,2012 - 2012,"2012 - Double-A, Akron Aeros, Cleveland Guardians; 2012 - Triple-A, Columbus Clippers, Salt Lake Bees, Cleveland Guardians, Los Angeles Angels"
+70,Blake,Wood,woodbl01,2011,2013,1,2012 - 2012,

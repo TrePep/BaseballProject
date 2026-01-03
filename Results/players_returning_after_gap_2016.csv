@@ -1,0 +1,63 @@
+id,nameFirst,nameLast,playerID,last_seen_year,return_year,gap_years,gap_years_range,gap_details
+1,Hernan,Iribarren,iribahe01,2009,2016,6,2010 - 2015,"2010 - Triple-A, Oklahoma City RedHawks, Texas Rangers; 2012 - Triple-A, Colorado Springs Sky Sox, Colorado Rockies; 2013 - Triple-A, Colorado Springs Sky Sox, Colorado Rockies; 2014 - Triple-A, Louisville Bats, Cincinnati Reds; 2014 - Winter Leagues, Cardenales de Lara, Office of the Commissioner; 2015 - Triple-A, Louisville Bats, Cincinnati Reds; 2015 - Winter Leagues, Caribes de Anzoategui, Office of the Commissioner"
+2,Chris,Smith,smithch07,2010,2016,5,2011 - 2015,"2011 - Triple-A, Tacoma Rainiers, Seattle Mariners; 2014 - Class A, Charleston RiverDogs, New York Yankees; 2014 - Class A Advanced, Tampa Yankees, New York Yankees; 2014 - Triple-A, El Paso Chihuahuas, San Diego Padres; 2014 - Winter Leagues, Tigres de Aragua, Office of the Commissioner; 2015 - Class A Advanced, Dunedin Blue Jays, Tampa Yankees, New York Yankees, Toronto Blue Jays; 2015 - Double-A, New Hampshire Fisher Cats, San Antonio Missions, Trenton Thunder, New York Yankees, San Diego Padres, Toronto Blue Jays; 2015 - Triple-A, El Paso Chihuahuas, San Diego Padres; 2015 - Winter Leagues, Gigantes de Carolina, Office of the Commissioner"
+3,Cedric,Hunter,huntece01,2011,2016,4,2012 - 2015,"2012 - Triple-A, Memphis Redbirds, St. Louis Cardinals; 2012 - Major League Baseball, Sacramento River Cats, Oakland Athletics; 2013 - Double-A, Akron Aeros, Cleveland Guardians; 2013 - Triple-A, Columbus Clippers, Cleveland Guardians; 2014 - Double-A, Mississippi Braves, Atlanta Braves; 2015 - Triple-A, Gwinnett Braves, Atlanta Braves"
+4,Frank,Herrmann,herrmfr01,2012,2016,3,2013 - 2015,"2014 - Triple-A, Columbus Clippers, Cleveland Guardians; 2015 - Triple-A, Indianapolis Indians, Salt Lake Bees, Los Angeles Angels, Pittsburgh Pirates"
+5,Manny,Pina,pinama01,2012,2016,3,2013 - 2015,"2013 - Double-A, Northwest Arkansas Naturals, Kansas City Royals; 2013 - Triple-A, Omaha Storm Chasers, Kansas City Royals; 2014 - Double-A, Jackson Generals, Seattle Mariners; 2014 - Triple-A, Tacoma Rainiers, Toledo Mud Hens, Detroit Tigers, Seattle Mariners; 2015 - Triple-A, Toledo Mud Hens, Detroit Tigers"
+6,Dylan,Bundy,bundydy01,2012,2016,3,2013 - 2015,"2014 - Class A Advanced, Frederick Keys, Baltimore Orioles; 2014 - Class A Short Season, Aberdeen IronBirds, Baltimore Orioles; 2015 - Double-A, Bowie Baysox, Baltimore Orioles; 2015 - Winter Leagues, Peoria Javelinas, Office of the Commissioner"
+7,Jhan,Marinez,marinjh01,2012,2016,3,2013 - 2015,"2013 - Triple-A, Charlotte Knights, Chicago White Sox; 2013 - Rookie, Bristol White Sox, Chicago White Sox; 2014 - Double-A, Chattanooga Lookouts, Los Angeles Dodgers; 2014 - Triple-A, Toledo Mud Hens, Detroit Tigers; 2015 - Double-A, Montgomery Biscuits, Tampa Bay Rays; 2015 - Triple-A, Durham Bulls, International League All-Stars, Tampa Bay Rays"
+8,Rafael,Ortega,ortegra01,2012,2016,3,2013 - 2015,"2013 - Double-A, Tulsa Drillers, Colorado Rockies; 2014 - Double-A, Springfield Cardinals, St. Louis Cardinals; 2014 - Triple-A, Memphis Redbirds, St. Louis Cardinals; 2014 - Rookie, GCL Cardinals, St. Louis Cardinals; 2014 - Winter Leagues, Tiburones de La Guaira, Office of the Commissioner; 2015 - Major League Baseball, Memphis Redbirds, St. Louis Cardinals; 2015 - Triple-A, Memphis Redbirds, St. Louis Cardinals"
+9,Cory,Luebke,luebkco01,2012,2016,3,2013 - 2015,"2015 - Class A Advanced, Lake Elsinore Storm, San Diego Padres; 2015 - Double-A, San Antonio Missions, San Diego Padres; 2015 - Triple-A, El Paso Chihuahuas, San Diego Padres"
+10,Robert,Andino,andinro01,2013,2016,2,2014 - 2015,"2014 - Triple-A, Indianapolis Indians, Pittsburgh Pirates; 2014 - Winter Leagues, Cangrejeros de Santurce, Office of the Commissioner; 2015 - Winter Leagues, Cangrejeros de Santurce, Office of the Commissioner"
+11,Julio,Borbon,borboju01,2013,2016,2,2014 - 2015,"2014 - Triple-A, Norfolk Tides, Baltimore Orioles; 2015 - Triple-A, Norfolk Tides, Baltimore Orioles"
+12,Buddy,Boshers,boshebu01,2013,2016,2,2014 - 2015,"2014 - Double-A, Arkansas Travelers, Los Angeles Angels; 2014 - Triple-A, Salt Lake Bees, Los Angeles Angels; 2014 - Winter Leagues, Leones del Caracas, Office of the Commissioner; 2015 - Winter Leagues, Leones del Caracas, Office of the Commissioner"
+13,Jurickson,Profar,profaju01,2013,2016,2,2014 - 2015,"2015 - Class A, Hickory Crawdads, Texas Rangers; 2015 - Double-A, Frisco RoughRiders, Texas Rangers; 2015 - Winter Leagues, AFL West Fall Stars, Surprise Saguaros, Office of the Commissioner"
+14,Matt,Tuiasosopo,tuiasma01,2013,2016,2,2014 - 2015,"2014 - Triple-A, Buffalo Bisons, Charlotte Knights, Chicago White Sox, Toronto Blue Jays; 2015 - Major League Baseball, Charlotte Knights, Chicago White Sox; 2015 - Triple-A, Charlotte Knights, Chicago White Sox"
+15,Brandon,Snyder,snydebr03,2013,2016,2,2014 - 2015,"2014 - Triple-A, Pawtucket Red Sox, Boston Red Sox; 2015 - Double-A, Bowie Baysox, Baltimore Orioles; 2015 - Rookie, AZL Angels, Los Angeles Angels"
+16,Rey,Fuentes,fuentre01,2013,2016,2,2014 - 2015,"2014 - Double-A, San Antonio Missions, San Diego Padres; 2014 - Triple-A, El Paso Chihuahuas, San Diego Padres; 2014 - Winter Leagues, Cangrejeros de Santurce, Team Figueroa, Office of the Commissioner; 2015 - Triple-A, Omaha Storm Chasers, Kansas City Royals; 2015 - Rookie, AZL Royals, Kansas City Royals; 2015 - Winter Leagues, Cangrejeros de Santurce, Office of the Commissioner"
+17,A. J.,Griffin,griffaj01,2013,2016,2,2014 - 2015,"2015 - Class A Advanced, Stockton Ports, Oakland Athletics; 2015 - Triple-A, Nashville Sounds, Oakland Athletics"
+18,Chien-Ming,Wang,wangch01,2013,2016,2,2014 - 2015,"2014 - Triple-A, Charlotte Knights, Louisville Bats, Chicago White Sox, Cincinnati Reds; 2015 - Triple-A, Gwinnett Braves, Tacoma Rainiers, Atlanta Braves, Seattle Mariners"
+19,Blake,Lalli,lallibl01,2013,2016,2,2014 - 2015,"2014 - Triple-A, Reno Aces, Arizona Diamondbacks; 2014 - Winter Leagues, Estrellas de Oriente, Office of the Commissioner; 2015 - Triple-A, Reno Aces, Arizona Diamondbacks"
+20,Nick,Buss,bussni01,2013,2016,2,2014 - 2015,"2014 - Triple-A, Albuquerque Isotopes, Sacramento River Cats, Los Angeles Dodgers, Oakland Athletics; 2014 - Winter Leagues, Tomateros de Culiacan, Office of the Commissioner; 2015 - Triple-A, Reno Aces, Arizona Diamondbacks; 2015 - Winter Leagues, Tomateros de Culiacan, Office of the Commissioner"
+21,Matt,Davidson,davidma02,2013,2016,2,2014 - 2015,"2014 - Triple-A, Charlotte Knights, Chicago White Sox; 2015 - Triple-A, Charlotte Knights, International League All-Stars, Chicago White Sox; 2015 - Major League Baseball, Charlotte Knights, Chicago White Sox"
+22,Scott,Diamond,diamosc01,2013,2016,2,2014 - 2015,"2014 - Triple-A, Louisville Bats, Rochester Red Wings, Cincinnati Reds, Minnesota Twins; 2014 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner; 2015 - Double-A, Montgomery Biscuits, Tampa Bay Rays; 2015 - Triple-A, Durham Bulls, Tampa Bay Rays; 2015 - Winter Leagues, Estrellas de Oriente, Office of the Commissioner"
+23,Matt,Magill,magilma01,2013,2016,2,2014 - 2015,"2014 - Triple-A, Albuquerque Isotopes, Los Angeles Dodgers; 2014 - Winter Leagues, Glendale Desert Dogs, Office of the Commissioner; 2015 - Triple-A, Louisville Bats, Cincinnati Reds"
+24,Zach,Phillips,phillza01,2013,2016,2,2014 - 2015,"2015 - Major League Baseball, Charlotte Knights, Chicago White Sox; 2015 - Triple-A, Charlotte Knights, International League All-Stars, Chicago White Sox; 2014 - NPB, Hiroshima Toyo Carp"
+25,Bryce,Brentz,brentbr01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Pawtucket Red Sox, Boston Red Sox; 2015 - Winter Leagues, Criollos de Caguas, Office of the Commissioner"
+26,Ryan,Buchter,buchtry01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Iowa Cubs, Oklahoma City Dodgers, Pacific Coast League All-Stars, Chicago Cubs, Los Angeles Dodgers; 2015 - Winter Leagues, Tomateros de Culiacan, Office of the Commissioner"
+27,Sean,Burnett,burnese01,2014,2016,1,2015 - 2015,
+28,Tyler,Chatwood,chatwty01,2014,2016,1,2015 - 2015,"2015 - Class A, Asheville Tourists, Colorado Rockies; 2015 - Class A Advanced, Modesto Nuts, Colorado Rockies"
+29,Paul,Clemens,clemepa02,2014,2016,1,2015 - 2015,"2015 - Class A Advanced, Clearwater Threshers, Philadelphia Phillies; 2015 - Double-A, Northwest Arkansas Naturals, Kansas City Royals; 2015 - Triple-A, Lehigh Valley IronPigs, Omaha Storm Chasers, Kansas City Royals, Philadelphia Phillies; 2015 - Winter Leagues, Tiburones de La Guaira, Office of the Commissioner"
+30,Alex,Cobb,cobbal01,2014,2016,1,2015 - 2015,
+31,Charlie,Culberson,culbech01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Albuquerque Isotopes, Colorado Rockies; 2015 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner"
+32,Yu,Darvish,darviyu01,2014,2016,1,2015 - 2015,
+33,Matt,Dominguez,dominma01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Buffalo Bisons, Colorado Springs Sky Sox, Fresno Grizzlies, Houston Astros, Milwaukee Brewers, Toronto Blue Jays"
+34,Josh,Edgin,edginjo01,2014,2016,1,2015 - 2015,
+35,Edwin,Escobar,escobed02,2014,2016,1,2015 - 2015,"2015 - Class A, Greenville Drive, Boston Red Sox; 2015 - Triple-A, Pawtucket Red Sox, Boston Red Sox; 2015 - Winter Leagues, Cardenales de Lara, Office of the Commissioner"
+36,Tim,Federowicz,federti01,2014,2016,1,2015 - 2015,"2015 - Class A, Fort Wayne TinCaps, San Diego Padres; 2015 - Triple-A, El Paso Chihuahuas, San Diego Padres"
+37,Brian,Flynn,flynnbr01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Omaha Storm Chasers, Kansas City Royals"
+38,Lucas,Harrell,harrelu01,2014,2016,1,2015 - 2015,
+39,Rafael,Lopez,lopezra02,2014,2016,1,2015 - 2015,
+40,Blake,Parker,parkebl01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Iowa Cubs, Chicago Cubs; 2015 - Winter Leagues, Aguilas de Mexicali, Office of the Commissioner"
+41,Curtis,Partch,partccu01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Sacramento River Cats, San Francisco Giants"
+42,Ramiro,Peña,penara02,2014,2016,1,2015 - 2015,
+43,Wade,LeBlanc,leblawa01,2014,2016,1,2015 - 2015,"2015 - NPB, Saitama Seibu Lions"
+44,Ryan,Kalish,kalisry01,2014,2016,1,2015 - 2015,"2015 - Winter Leagues, Criollos de Caguas, Office of the Commissioner"
+45,Josmil,Pinto,pintojo01,2014,2016,1,2015 - 2015,"2015 - Class A Advanced, Fort Myers Miracle, Minnesota Twins; 2015 - Triple-A, Rochester Red Wings, Minnesota Twins; 2015 - Rookie, GCL Twins, Minnesota Twins; 2015 - Winter Leagues, Tigres de Aragua, Office of the Commissioner"
+46,Michael,Kirkman,kirkmmi01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Colorado Springs Sky Sox, Milwaukee Brewers"
+47,Michael,Roth,rothmi01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Columbus Clippers, Cleveland Guardians; 2015 - Winter Leagues, Aguilas Cibaenas, Leones del Escogido, Office of the Commissioner"
+48,Justin,Marks,marksju01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Reno Aces, Arizona Diamondbacks"
+49,Hyun Jin,Ryu,ryuhy01,2014,2016,1,2015 - 2015,
+50,Shae,Simmons,simmosh01,2014,2016,1,2015 - 2015,
+51,Tyler,Skaggs,skaggty01,2014,2016,1,2015 - 2015,
+52,Jim,Henderson,hendeji01,2014,2016,1,2015 - 2015,"2015 - Class A Advanced, Brevard County Manatees, Milwaukee Brewers; 2015 - Double-A, Biloxi Shuckers, Milwaukee Brewers; 2015 - Triple-A, Colorado Springs Sky Sox, Milwaukee Brewers"
+53,Darin,Mastroianni,mastrda01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Lehigh Valley IronPigs, Syracuse Chiefs, Philadelphia Phillies, Washington Nationals"
+54,Nick,Tepesch,tepesni01,2014,2016,1,2015 - 2015,
+55,Ben,Rowen,rowenbe01,2014,2016,1,2015 - 2015,"2015 - Double-A, Bowie Baysox, Baltimore Orioles; 2015 - Triple-A, Buffalo Bisons, Iowa Cubs, Norfolk Tides, Baltimore Orioles, Chicago Cubs, Toronto Blue Jays"
+56,Jacob,Turner,turneja01,2014,2016,1,2015 - 2015,"2015 - Double-A, Tennessee Smokies, Chicago Cubs"
+57,Christian,Vazquez,vazquch01,2014,2016,1,2015 - 2015,"2015 - Class A, Lansing Lugnuts, Toronto Blue Jays; 2015 - Class A Advanced, Dunedin Blue Jays, Toronto Blue Jays; 2015 - Class A Short Season, Vancouver Canadians, Toronto Blue Jays"
+58,Logan,Ondrusek,ondrulo01,2014,2016,1,2015 - 2015,
+59,Andy,Wilkins,wilkian01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Buffalo Bisons, Norfolk Tides, Oklahoma City Dodgers, Baltimore Orioles, Los Angeles Dodgers, Toronto Blue Jays; 2015 - Winter Leagues, Aguilas Cibaenas, Office of the Commissioner"
+60,Chris,Withrow,withrch01,2014,2016,1,2015 - 2015,
+61,Blake,Wood,woodbl01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Indianapolis Indians, International League All-Stars, Pittsburgh Pirates"
+62,Danny,Worth,worthda01,2014,2016,1,2015 - 2015,"2015 - Triple-A, Reno Aces, Arizona Diamondbacks"

@@ -1,0 +1,90 @@
+id,nameFirst,nameLast,playerID,last_seen_year,return_year,gap_years,gap_years_range,gap_details
+1,David,Buchanan,buchada01,2015,2024,8,2016 - 2023,"2016 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies; 2017 - NPB, Tokyo Yakult Swallows; 2018 - NPB, Tokyo Yakult Swallows; 2019 - NPB, Tokyo Yakult Swallows"
+2,Albert,Suarez,suareal01,2017,2024,6,2018 - 2023,"2018 - Triple-A, Reno Aces, Arizona Diamondbacks; 2019 - Class A Advanced, Rancho Cucamonga Quakes, Los Angeles Dodgers; 2019 - Rookie, AZL Dodgers Mota, Los Angeles Dodgers; 2021 - Rookie, FCL Mets, New York Mets; 2022 - Single-A, St. Lucie Mets, New York Mets; 2019 - NPB, Tokyo Yakult Swallows; 2020 - NPB, Tokyo Yakult Swallows; 2021 - NPB, Tokyo Yakult Swallows"
+3,Casey,Kelly,kellyca01,2018,2024,5,2019 - 2023,
+4,Justin,Anderson,anderju01,2019,2024,4,2020 - 2023,"2021 - Triple-A, Round Rock Express, Texas Rangers; 2021 - Rookie, ACL Rangers, Texas Rangers; 2022 - Triple-A, Round Rock Express, Texas Rangers; 2023 - Double-A, Northwest Arkansas Naturals, Kansas City Royals; 2023 - Triple-A, Omaha Storm Chasers, Kansas City Royals; 2023 - Rookie, ACL Royals, Kansas City Royals"
+5,Ricardo,Pinto,pintori01,2019,2024,4,2020 - 2023,"2021 - Double-A, Erie SeaWolves, Detroit Tigers; 2021 - Triple-A, Toledo Mud Hens, Detroit Tigers; 2022 - Triple-A, Toledo Mud Hens, Detroit Tigers; 2022 - Winter Leagues, Tiburones de La Guaira, Office of the Commissioner; 2023 - Winter Leagues, Tiburones de La Guaira, Venezuela, Office of the Commissioner"
+6,Joe,Hudson,hudsojo03,2020,2024,3,2021 - 2023,"2021 - Triple-A, Indianapolis Indians, Pittsburgh Pirates; 2022 - Triple-A, Durham Bulls, Tampa Bay Rays; 2022 - Winter Leagues, Aguilas Cibaenas, Office of the Commissioner; 2023 - Triple-A, Gwinnett Stripers, Atlanta Braves; 2023 - Winter Leagues, Aguilas Cibaenas, Gigantes del Cibao, Office of the Commissioner"
+7,Brandon,Leibrandt,leibrbr01,2020,2024,3,2021 - 2023,"2021 - Double-A, Pensacola Blue Wahoos, Miami Marlins; 2021 - Triple-A, Jacksonville Jumbo Shrimp, Miami Marlins; 2022 - Double-A, Tennessee Smokies, Chicago Cubs; 2022 - Triple-A, Iowa Cubs, Chicago Cubs; 2023 - Winter Leagues, Estrellas Orientales, Office of the Commissioner"
+8,Sixto,Sanchez,sanchsi01,2020,2024,3,2021 - 2023,"2023 - Double-A, Pensacola Blue Wahoos, Miami Marlins"
+9,Jacob,Waguespack,wagueja01,2020,2024,3,2021 - 2023,"2021 - Triple-A, Buffalo Bisons, Toronto Blue Jays; 2022 - NPB, Orix Buffaloes; 2023 - NPB, Orix Buffaloes"
+10,Jose,Devers,deverjo01,2021,2024,2,2022 - 2023,"2022 - Single-A, Jupiter Hammerheads, Miami Marlins; 2022 - Double-A, Pensacola Blue Wahoos, Miami Marlins; 2022 - Rookie, ACL Guardians, Cleveland Guardians; 2023 - Single-A, Lynchburg Hillcats, Cleveland Guardians; 2023 - Double-A, Pensacola Blue Wahoos, Miami Marlins"
+11,Dan,Altavilla,altavda01,2021,2024,2,2022 - 2023,"2023 - High-A, Greenville Drive, Boston Red Sox; 2023 - Rookie, FCL Red Sox, Boston Red Sox; 2023 - Winter Leagues, Tigres del Licey, Office of the Commissioner"
+12,Sean,Guenther,guentse01,2021,2024,2,2022 - 2023,"2023 - Single-A, Lakeland Flying Tigers, Detroit Tigers; 2023 - Double-A, Erie SeaWolves, Detroit Tigers; 2023 - Triple-A, Toledo Mud Hens, Detroit Tigers"
+13,Matt,Andriese,andrima01,2021,2024,2,2022 - 2023,"2023 - Triple-A, Oklahoma City Dodgers, Los Angeles Dodgers; 2022 - NPB, Yomiuri Giants"
+14,Brett,de Geus,degeubr01,2021,2024,2,2022 - 2023,"2022 - Double-A, Amarillo Sod Poodles, Arizona Diamondbacks; 2023 - Double-A, Northwest Arkansas Naturals, Kansas City Royals; 2023 - Triple-A, Omaha Storm Chasers, Kansas City Royals"
+15,Kent,Emanuel,emanuke01,2021,2024,2,2022 - 2023,"2022 - Single-A, Clearwater Threshers, Philadelphia Phillies; 2022 - Double-A, Reading Fightin Phils, Philadelphia Phillies; 2022 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies; 2023 - Single-A, Bradenton Marauders, Pittsburgh Pirates; 2023 - Triple-A, Indianapolis Indians, Pittsburgh Pirates"
+16,Randy,Dobnak,dobnara01,2021,2024,2,2022 - 2023,"2022 - Single-A, Fort Myers Mighty Mussels, Minnesota Twins; 2022 - Triple-A, St. Paul Saints, Minnesota Twins; 2022 - Rookie, FCL Twins, Minnesota Twins; 2023 - Triple-A, St. Paul Saints, Minnesota Twins"
+17,Scott,Blewett,blewesc01,2021,2024,2,2022 - 2023,"2022 - Double-A, Birmingham Barons, Chicago White Sox; 2022 - Triple-A, Charlotte Knights, Chicago White Sox; 2023 - Double-A, Mississippi Braves, Atlanta Braves"
+18,Burch,Smith,smithbu03,2021,2024,2,2022 - 2023,"2023 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner; 2022 - NPB, Saitama Seibu Lions"
+19,Hans,Crouse,crousha01,2021,2024,2,2022 - 2023,"2022 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies; 2023 - Single-A, Clearwater Threshers, Philadelphia Phillies; 2023 - Double-A, Reading Fightin Phils, Philadelphia Phillies; 2023 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies"
+20,Daniel,Johnson,johnsda07,2021,2024,2,2022 - 2023,"2022 - Single-A, St. Lucie Mets, New York Mets; 2022 - Double-A, Harrisburg Senators, Washington Nationals; 2022 - Triple-A, Columbus Clippers, Rochester Red Wings, Syracuse Mets, Cleveland Guardians, New York Mets, Washington Nationals; 2022 - Rookie, FCL Nationals, Washington Nationals; 2023 - Double-A, San Antonio Missions, San Diego Padres; 2023 - Triple-A, El Paso Chihuahuas, San Diego Padres"
+21,Jack,Lopez,lopezja03,2021,2024,2,2022 - 2023,"2022 - Triple-A, Toledo Mud Hens, Detroit Tigers; 2023 - Triple-A, Salt Lake Bees, Los Angeles Angels"
+22,Rafael,Marchan,marchra01,2021,2024,2,2022 - 2023,"2022 - High-A, Jersey Shore BlueClaws, Philadelphia Phillies; 2022 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies; 2023 - Single-A, Clearwater Threshers, Philadelphia Phillies; 2023 - High-A, Jersey Shore BlueClaws, Philadelphia Phillies; 2023 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies"
+23,Isaac,Mattson,mattsis01,2021,2024,2,2022 - 2023,"2022 - Double-A, Bowie Baysox, Baltimore Orioles; 2022 - Triple-A, Norfolk Tides, Baltimore Orioles; 2023 - Double-A, Wichita Wind Surge, Minnesota Twins"
+24,Jakson,Reetz,reetzja01,2021,2024,2,2022 - 2023,"2022 - Double-A, Biloxi Shuckers, Milwaukee Brewers; 2022 - Triple-A, Nashville Sounds, Omaha Storm Chasers, Kansas City Royals, Milwaukee Brewers; 2023 - Triple-A, Omaha Storm Chasers, Sacramento River Cats, Kansas City Royals, San Francisco Giants"
+25,Joe,Ross,rossjo01,2021,2024,2,2022 - 2023,"2022 - Double-A, Harrisburg Senators, Washington Nationals; 2023 - Single-A, San Jose Giants, San Francisco Giants; 2023 - Triple-A, Sacramento River Cats, San Francisco Giants; 2023 - Rookie, ACL Giants Orange, San Francisco Giants"
+26,Ali,Sanchez,sanchal04,2021,2024,2,2022 - 2023,"2022 - Triple-A, Memphis Redbirds, Toledo Mud Hens, Detroit Tigers, St. Louis Cardinals; 2023 - Triple-A, Reno Aces, Arizona Diamondbacks"
+27,Ryan,Vilade,viladry01,2021,2024,2,2022 - 2023,"2022 - Triple-A, Albuquerque Isotopes, Colorado Rockies; 2022 - Rookie, ACL Rockies, Colorado Rockies; 2023 - Triple-A, Indianapolis Indians, Pittsburgh Pirates"
+28,Tyler,Zuber,zuberty01,2021,2024,2,2022 - 2023,"2023 - Triple-A, Reno Aces, Arizona Diamondbacks; 2023 - Winter Leagues, Estrellas Orientales, Office of the Commissioner"
+29,Scott,Effross,effrosc01,2022,2024,1,2023 - 2023,
+30,Jerar,Encarnacion,encarje01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Jacksonville Jumbo Shrimp, Miami Marlins"
+31,Erick,Fedde,feddeer01,2022,2024,1,2023 - 2023,
+32,J. P.,Feyereisen,feyerjo01,2022,2024,1,2023 - 2023,
+33,Matt,Foster,fostema01,2022,2024,1,2023 - 2023,
+34,Aramis,Garcia,garciar01,2022,2024,1,2023 - 2023,"2023 - High-A, Jersey Shore BlueClaws, Philadelphia Phillies; 2023 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies"
+35,Lucas,Gilbreath,gilbrlu01,2022,2024,1,2023 - 2023,
+36,Luis,Gil,gillu01,2022,2024,1,2023 - 2023,"2023 - Single-A, Tampa Tarpons, New York Yankees"
+37,Niko,Goodrum,goodrni01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Worcester Red Sox, Boston Red Sox"
+38,Anthony,Gose,gosean01,2022,2024,1,2023 - 2023,
+39,Vladimir,Gutierrez,gutievl01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Louisville Bats, Cincinnati Reds; 2023 - Rookie, ACL Reds, Cincinnati Reds"
+40,Ronny,Henriquez,henriro01,2022,2024,1,2023 - 2023,"2023 - Single-A, Fort Myers Mighty Mussels, Minnesota Twins; 2023 - Triple-A, St. Paul Saints, Minnesota Twins; 2023 - Winter Leagues, Tigres del Licey, Office of the Commissioner"
+41,Elieser,Hernandez,hernael01,2022,2024,1,2023 - 2023,"2023 - Single-A, St. Lucie Mets, New York Mets; 2023 - High-A, Brooklyn Cyclones, New York Mets; 2023 - Triple-A, Syracuse Mets, New York Mets"
+42,Brewer,Hicklen,hicklbr01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Lehigh Valley IronPigs, Omaha Storm Chasers, Kansas City Royals, Philadelphia Phillies"
+43,Keston,Hiura,hiurake01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Nashville Sounds, Milwaukee Brewers; 2023 - Rookie, ACL Brewers, Milwaukee Brewers"
+44,Rhys,Hoskins,hoskirh01,2022,2024,1,2023 - 2023,
+45,Logan,Allen,allenlo01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Albuquerque Isotopes, Columbus Clippers, Tacoma Rainiers, Cleveland Guardians, Colorado Rockies, Seattle Mariners; 2023 - Winter Leagues, Tigres del Licey, Office of the Commissioner"
+46,Alex,Jackson,jacksal02,2022,2024,1,2023 - 2023,"2023 - Triple-A, Durham Bulls, Nashville Sounds, Milwaukee Brewers, Tampa Bay Rays"
+47,Daulton,Jefferies,jeffeda01,2022,2024,1,2023 - 2023,
+48,Eddy,Alvarez,alvared01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Nashville Sounds, Worcester Red Sox, Boston Red Sox, Milwaukee Brewers"
+49,Shaun,Anderson,andersh01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Lehigh Valley IronPigs, Philadelphia Phillies; 2023 - Winter Leagues, Estrellas Orientales, Office of the Commissioner"
+50,Andrew,Knapp,knappan01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Sugar Land Space Cowboys, Toledo Mud Hens, Detroit Tigers, Houston Astros"
+51,Jared,Koenig,koenija01,2022,2024,1,2023 - 2023,"2023 - Double-A, San Antonio Missions, San Diego Padres; 2023 - Triple-A, El Paso Chihuahuas, San Diego Padres"
+52,Charles,Leblanc,leblach01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Jacksonville Jumbo Shrimp, Miami Marlins; 2023 - Winter Leagues, Tigres del Licey, Office of the Commissioner"
+53,Aaron,Ashby,ashbyaa01,2022,2024,1,2023 - 2023,"2023 - High-A, Wisconsin Timber Rattlers, Milwaukee Brewers; 2023 - Double-A, Biloxi Shuckers, Milwaukee Brewers; 2023 - Triple-A, Nashville Sounds, Milwaukee Brewers"
+54,Brendon,Little,littlbr02,2022,2024,1,2023 - 2023,"2023 - Triple-A, Iowa Cubs, Chicago Cubs"
+55,Shane,Baz,bazsh01,2022,2024,1,2023 - 2023,
+56,Otto,Lopez,lopezot01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Buffalo Bisons, Toronto Blue Jays; 2023 - Winter Leagues, Leones del Escogido, Office of the Commissioner"
+57,Gavin,Lux,luxga01,2022,2024,1,2023 - 2023,
+58,Tyler,Beede,beedety01,2022,2024,1,2023 - 2023,"2023 - NPB, Yomiuri Giants"
+59,Davis,Martin,martida03,2022,2024,1,2023 - 2023,"2023 - Triple-A, Charlotte Knights, Chicago White Sox"
+60,Anthony,Bender,bendean01,2022,2024,1,2023 - 2023,
+61,Tyler,Matzek,matzety01,2022,2024,1,2023 - 2023,
+62,Max,Meyer,meyerma01,2022,2024,1,2023 - 2023,
+63,Casey,Mize,mizeca01,2022,2024,1,2023 - 2023,
+64,Tommy,Nance,nanceto01,2022,2024,1,2023 - 2023,"2023 - Single-A, Jupiter Hammerheads, Miami Marlins; 2023 - Double-A, Pensacola Blue Wahoos, Miami Marlins; 2023 - Triple-A, Jacksonville Jumbo Shrimp, Miami Marlins; 2023 - Rookie, FCL Marlins, Miami Marlins"
+65,Riley,O'Brien,obrieri01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Tacoma Rainiers, Seattle Mariners"
+66,Enoli,Paredes,pareden01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Sugar Land Space Cowboys, Houston Astros; 2023 - Winter Leagues, Leones del Escogido, Office of the Commissioner"
+67,Rob,Brantly,brantro01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Buffalo Bisons, Toronto Blue Jays"
+68,Cody,Poteet,poteeco01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Omaha Storm Chasers, Kansas City Royals"
+69,Aaron,Brooks,brookaa01,2022,2024,1,2023 - 2023,"2023 - Triple-A, El Paso Chihuahuas, San Diego Padres"
+70,Ethan,Roberts,roberet01,2022,2024,1,2023 - 2023,
+71,Chuckie,Robinson,robinch03,2022,2024,1,2023 - 2023,"2023 - Triple-A, Louisville Bats, Cincinnati Reds; 2023 - Winter Leagues, Gigantes del Cibao, Office of the Commissioner"
+72,Manuel,Rodriguez,rodrima01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Durham Bulls, Iowa Cubs, Chicago Cubs, Tampa Bay Rays; 2023 - Rookie, ACL Brewers, Milwaukee Brewers"
+73,Josh,Rogers,rogerjo01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Albuquerque Isotopes, Colorado Rockies"
+74,Walker,Buehler,buehlwa01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Oklahoma City Dodgers, Los Angeles Dodgers"
+75,Ryan,Burr,burrry01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Durham Bulls, Tampa Bay Rays"
+76,Daz,Cameron,camerda01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Norfolk Tides, Baltimore Orioles"
+77,Miguel,Sano,sanomi01,2022,2024,1,2023 - 2023,
+78,Jose,Iglesias,iglesjo01,2022,2024,1,2023 - 2023,"2023 - Triple-A, El Paso Chihuahuas, San Diego Padres"
+79,Hunter,Strickland,strichu01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Louisville Bats, Cincinnati Reds"
+80,Humberto,Castellanos,castehu01,2022,2024,1,2023 - 2023,"2023 - Winter Leagues, Charros de Jalisco, Office of the Commissioner"
+81,Dillon,Tate,tatedi01,2022,2024,1,2023 - 2023,"2023 - High-A, Aberdeen IronBirds, Baltimore Orioles; 2023 - Double-A, Bowie Baysox, Baltimore Orioles; 2023 - Triple-A, Norfolk Tides, Baltimore Orioles"
+82,Jesus,Tinoco,tinocje01,2022,2024,1,2023 - 2023,"2023 - Winter Leagues, Navegantes del Magallanes, Office of the Commissioner; 2023 - NPB, Saitama Seibu Lions"
+83,Blake,Treinen,treinbl01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Oklahoma City Dodgers, Los Angeles Dodgers; 2023 - Rookie, ACL Dodgers, Los Angeles Dodgers"
+84,Kyle,Tyler,tylerky01,2022,2024,1,2023 - 2023,"2023 - Double-A, Arkansas Travelers, Seattle Mariners"
+85,Austin,Davis,davisau01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Sugar Land Space Cowboys, Houston Astros; 2023 - Winter Leagues, Estrellas Orientales, Office of the Commissioner"
+86,David,Bote,boteda01,2022,2024,1,2023 - 2023,"2023 - Triple-A, Iowa Cubs, Chicago Cubs"
+87,Donovan,Walton,waltodo01,2022,2024,1,2023 - 2023,"2023 - High-A, Eugene Emeralds, San Francisco Giants; 2023 - Double-A, Richmond Flying Squirrels, San Francisco Giants; 2023 - Triple-A, Sacramento River Cats, San Francisco Giants; 2023 - Rookie, ACL Giants Black, San Francisco Giants"
+88,Justin,Wilson,wilsoju10,2022,2024,1,2023 - 2023,"2023 - Double-A, Somerset Patriots, New York Yankees; 2023 - Triple-A, Nashville Sounds, Milwaukee Brewers; 2023 - Rookie, ACL Brewers, Milwaukee Brewers"
+89,Edwin,Diaz,diazed04,2022,2024,1,2023 - 2023,"2023 - Double-A, Portland Sea Dogs, Boston Red Sox; 2023 - Triple-A, Worcester Red Sox, Boston Red Sox"
