@@ -1,6 +1,6 @@
 # Baseball Gap Analysis Project
 
-This project analyzes Major League Baseball (MLB) players who returned to the league after a gap of one or more years. It fills in these gap years with Minor League Baseball (MiLB) and Nippon Professional Baseball (NPB) data to determine if the player was active in one of those leagues during their absence from MLB.
+This project analyzes Major League Baseball (MLB) players who returned to the league after a gap of one or more years. It fills in these "gap years" with Minor League Baseball (MiLB) and Nippon Professional Baseball (NPB) data to determine if the player was active in one of those leagues during their absence from MLB.
 
 **The results of this project are the tables found in the [Results](Results/) directory.**
 
@@ -13,7 +13,7 @@ This project analyzes Major League Baseball (MLB) players who returned to the le
 
 1.  **Clone the repository** to your local machine.
     ```bash
-    git clone https://github.com/TrePep/BaseballProject
+    git clone 
     cd BaseballProject
     ```
 
@@ -84,4 +84,16 @@ python Scripts/check_npb_gaps.py
     *   `check_npb_gaps.py`: Checks for NPB activity during gap years.
     *   `db_config.py`: Database connection helper.
 *   `SQL/`: SQL templates used by the analysis scripts.
-*   `Results/`: Folder for exporting results to CSV.
+*   `Results/`: (Optional) Folder for exporting results to CSV.
+
+## Limitations
+
+*   **Name Matching Accuracy:** The cross-referencing between MLB, MiLB, and NPB datasets relies only on matching player names and years. This approach has significan risk.
+
+*   **Scope of Data:** This analysis currently only checks for activity in Minor League Baseball (MiLB) and Nippon Professional Baseball (NPB). It does not account for other potential leagues where players might have been active during their gap years, such as:
+    *   Korea Baseball Organization (KBO)
+    *   Chinese Professional Baseball League (CPBL)
+    *   Mexican League (LMB)
+    *   Independent Leagues (e.g., Atlantic League, Frontier League)
+    *   Winter Leagues (Dominican, Venezuelan, Puerto Rican, etc.)
+
