@@ -1,6 +1,6 @@
 # Baseball Gap Analysis Project
 
-This project analyzes Major League Baseball (MLB) players who returned to the league after a gap of one or more years. It fills in these "gap years" with Minor League Baseball (MiLB) and Nippon Professional Baseball (NPB) data to determine if the player was active in one of those leagues during their absence from MLB.
+This project analyzes Major League Baseball (MLB) players who returned to the league after a gap of one or more years. It fills in these gap years with Minor League Baseball (MiLB) and Nippon Professional Baseball (NPB) data to determine if the player was active in one of those leagues during their absence from MLB.
 
 **The results of this project are the tables found in the [Results](Results/) directory.**
 
@@ -13,7 +13,7 @@ This project analyzes Major League Baseball (MLB) players who returned to the le
 
 1.  **Clone the repository** to your local machine.
     ```bash
-    git clone 
+    git clone https://github.com/TrePep/BaseballProject
     cd BaseballProject
     ```
 
@@ -84,4 +84,4 @@ python Scripts/check_npb_gaps.py
     *   `check_npb_gaps.py`: Checks for NPB activity during gap years.
     *   `db_config.py`: Database connection helper.
 *   `SQL/`: SQL templates used by the analysis scripts.
-*   `Results/`: (Optional) Folder for exporting results to CSV.
+*   `Results/`: Folder for exporting results to CSV.
